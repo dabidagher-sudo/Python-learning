@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M06",
+        "status": "RUNNING",
+        "temp": 44,
+        "pressure": 82,
+        "result": "CRITICAL Temperature Alarm"
+    }
+]

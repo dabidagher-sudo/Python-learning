@@ -1,0 +1,9 @@
+temp= 35 presion= 60 -> Alarma Temperatura
+temp= 28 presion= 55 -> Ok
+temp= 40 presion= 45 -> Alarma Temperatura
+
+Resumen
+Total Alarmas= 2
+Total Alarmas Temperatura= 2
+Total Alarmas Presion= 0
+Total Ok= 1

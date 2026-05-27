@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2026-05-13 21:54:57",
+        "machine_id": "M01",
+        "status": "STOPPED",
+        "temp": 24,
+        "pressure": 44,
+        "result": "Machine Stopped"
+    }
+]

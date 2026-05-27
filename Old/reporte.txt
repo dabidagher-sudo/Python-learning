@@ -1,0 +1,3 @@
+temp=35, presion=60 -> Alarma temperatura
+temp=28, presion=55 -> OK
+temp=40, presion=45 -> Alarma temperatura

@@ -1,0 +1,923 @@
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[08:00] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 60-> Temperature Alarm
+[08:05] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 55-> Machine Stopped
+[08:10] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[08:15] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 70-> Temperature Alarm
+[08:20] Machine= M05, Status=STOPPED, Temp= 25, Pressure= 80-> Machine Stopped
+[08:25] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 40-> CRITICAL Temperature Alarm
+[2026-05-10 14:21:36] Machine= M3, Status=STOPPED, Temp= 33, Pressure= 88-> Machine Stopped
+[2026-05-10 14:21:36] Machine= M5, Status=RUNNING, Temp= 25, Pressure= 81-> Ok
+[2026-05-10 14:21:36] Machine= M1, Status=RUNNING, Temp= 20, Pressure= 90-> Ok
+[2026-05-10 14:21:36] Machine= M5, Status=STOPPED, Temp= 41, Pressure= 86-> Machine Stopped
+[2026-05-10 14:21:36] Machine= M3, Status=RUNNING, Temp= 21, Pressure= 88-> Ok
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 49, Pressure= 82-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 39, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M06, Status=STOPPED, Temp= 42, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 39, Pressure= 83-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 27, Pressure= 81-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=STOPPED, Temp= 50, Pressure= 80-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=RUNNING, Temp= 43, Pressure= 90-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M4, Status=STOPPED, Temp= 38, Pressure= 83-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M06, Status=RUNNING, Temp= 41, Pressure= 88-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M06, Status=RUNNING, Temp= 46, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M06, Status=STOPPED, Temp= 20, Pressure= 88-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M2, Status=STOPPED, Temp= 27, Pressure= 89-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 33, Pressure= 80-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M2, Status=RUNNING, Temp= 40, Pressure= 87-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M5, Status=RUNNING, Temp= 33, Pressure= 80-> Temperature Alarm
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 41, Pressure= 84-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=STOPPED, Temp= 48, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=RUNNING, Temp= 49, Pressure= 86-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M3, Status=STOPPED, Temp= 21, Pressure= 80-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=STOPPED, Temp= 41, Pressure= 86-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=RUNNING, Temp= 48, Pressure= 81-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M2, Status=STOPPED, Temp= 30, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=STOPPED, Temp= 27, Pressure= 81-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=RUNNING, Temp= 28, Pressure= 81-> Ok
+[2026-05-10 14:24:55] Machine= M1, Status=STOPPED, Temp= 41, Pressure= 84-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=RUNNING, Temp= 31, Pressure= 87-> Temperature Alarm
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 30, Pressure= 88-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=RUNNING, Temp= 30, Pressure= 84-> Ok
+[2026-05-10 14:24:55] Machine= M2, Status=STOPPED, Temp= 27, Pressure= 88-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=RUNNING, Temp= 40, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M1, Status=STOPPED, Temp= 45, Pressure= 85-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 44, Pressure= 83-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 27, Pressure= 82-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=RUNNING, Temp= 40, Pressure= 90-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M4, Status=STOPPED, Temp= 46, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M06, Status=RUNNING, Temp= 27, Pressure= 88-> Ok
+[2026-05-10 14:24:55] Machine= M1, Status=STOPPED, Temp= 32, Pressure= 85-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M3, Status=RUNNING, Temp= 32, Pressure= 88-> Temperature Alarm
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 24, Pressure= 89-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M2, Status=STOPPED, Temp= 22, Pressure= 89-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M06, Status=STOPPED, Temp= 42, Pressure= 90-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=RUNNING, Temp= 33, Pressure= 84-> Temperature Alarm
+[2026-05-10 14:24:55] Machine= M06, Status=RUNNING, Temp= 23, Pressure= 82-> Ok
+[2026-05-10 14:24:55] Machine= M5, Status=RUNNING, Temp= 43, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-10 14:24:55] Machine= M06, Status=STOPPED, Temp= 32, Pressure= 83-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=STOPPED, Temp= 40, Pressure= 87-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M06, Status=STOPPED, Temp= 41, Pressure= 81-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M5, Status=STOPPED, Temp= 49, Pressure= 82-> Machine Stopped
+[2026-05-10 14:24:55] Machine= M4, Status=RUNNING, Temp= 24, Pressure= 90-> Ok
+[2026-05-10 14:24:55] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M01, Status=RUNNING, Temp= 50, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M02, Status=RUNNING, Temp= 49, Pressure= 85-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M06, Status=RUNNING, Temp= 22, Pressure= 90-> Ok
+[2026-05-10 14:27:05] Machine= M03, Status=RUNNING, Temp= 48, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M05, Status=RUNNING, Temp= 35, Pressure= 90-> Temperature Alarm
+[2026-05-10 14:27:05] Machine= M01, Status=STOPPED, Temp= 36, Pressure= 85-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M06, Status=RUNNING, Temp= 24, Pressure= 89-> Ok
+[2026-05-10 14:27:05] Machine= M04, Status=STOPPED, Temp= 50, Pressure= 82-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M05, Status=STOPPED, Temp= 46, Pressure= 90-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M05, Status=RUNNING, Temp= 36, Pressure= 90-> Temperature Alarm
+[2026-05-10 14:27:05] Machine= M05, Status=STOPPED, Temp= 29, Pressure= 87-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M02, Status=STOPPED, Temp= 34, Pressure= 83-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M06, Status=RUNNING, Temp= 32, Pressure= 83-> Temperature Alarm
+[2026-05-10 14:27:05] Machine= M02, Status=RUNNING, Temp= 44, Pressure= 80-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M04, Status=STOPPED, Temp= 28, Pressure= 81-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M03, Status=STOPPED, Temp= 42, Pressure= 85-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M03, Status=STOPPED, Temp= 50, Pressure= 83-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M03, Status=RUNNING, Temp= 50, Pressure= 90-> CRITICAL Temperature Alarm
+[2026-05-10 14:27:05] Machine= M03, Status=STOPPED, Temp= 41, Pressure= 82-> Machine Stopped
+[2026-05-10 14:27:05] Machine= M04, Status=RUNNING, Temp= 27, Pressure= 82-> Ok
+[2026-05-14 21:32:35] Machine= M03, Status=STOPPED, Temp= 33, Pressure= 87-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M03, Status=STOPPED, Temp= 24, Pressure= 46-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M04, Status=RUNNING, Temp= 39, Pressure= 57-> Temperature Alarm
+[2026-05-14 21:32:35] Machine= M03, Status=STOPPED, Temp= 24, Pressure= 85-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M05, Status=RUNNING, Temp= 27, Pressure= 73-> Ok
+[2026-05-14 21:32:35] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 51-> CRITICAL Temperature Alarm
+[2026-05-14 21:32:35] Machine= M03, Status=RUNNING, Temp= 23, Pressure= 72-> Ok
+[2026-05-14 21:32:35] Machine= M03, Status=RUNNING, Temp= 36, Pressure= 71-> Temperature Alarm
+[2026-05-14 21:32:35] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 49-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M02, Status=RUNNING, Temp= 39, Pressure= 42-> Temperature Alarm
+[2026-05-14 21:32:35] Machine= M01, Status=RUNNING, Temp= 28, Pressure= 41-> Low Pressure
+[2026-05-14 21:32:35] Machine= M01, Status=RUNNING, Temp= 49, Pressure= 42-> CRITICAL Temperature Alarm
+[2026-05-14 21:32:35] Machine= M02, Status=STOPPED, Temp= 41, Pressure= 66-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M06, Status=RUNNING, Temp= 28, Pressure= 61-> Ok
+[2026-05-14 21:32:35] Machine= M02, Status=RUNNING, Temp= 24, Pressure= 79-> Ok
+[2026-05-14 21:32:35] Machine= M01, Status=STOPPED, Temp= 33, Pressure= 65-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M02, Status=STOPPED, Temp= 41, Pressure= 45-> Machine Stopped
+[2026-05-14 21:32:35] Machine= M02, Status=RUNNING, Temp= 41, Pressure= 66-> CRITICAL Temperature Alarm
+[2026-05-14 21:32:35] Machine= M06, Status=RUNNING, Temp= 29, Pressure= 73-> Ok
+[2026-05-14 21:32:35] Machine= M01, Status=RUNNING, Temp= 31, Pressure= 53-> Temperature Alarm
+[2026-05-14 21:34:54] Machine= M04, Status=STOPPED, Temp= 21, Pressure= 55-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M04, Status=STOPPED, Temp= 29, Pressure= 60-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M06, Status=STOPPED, Temp= 36, Pressure= 71-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M06, Status=RUNNING, Temp= 47, Pressure= 68-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M04, Status=RUNNING, Temp= 33, Pressure= 64-> Temperature Alarm
+[2026-05-14 21:34:54] Machine= M05, Status=RUNNING, Temp= 47, Pressure= 59-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M02, Status=RUNNING, Temp= 40, Pressure= 53-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M01, Status=STOPPED, Temp= 49, Pressure= 47-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 77-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 87-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M05, Status=RUNNING, Temp= 43, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M04, Status=RUNNING, Temp= 20, Pressure= 70-> Ok
+[2026-05-14 21:34:54] Machine= M05, Status=STOPPED, Temp= 38, Pressure= 50-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 49-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M06, Status=STOPPED, Temp= 26, Pressure= 75-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M04, Status=RUNNING, Temp= 37, Pressure= 80-> Temperature Alarm
+[2026-05-14 21:34:54] Machine= M04, Status=RUNNING, Temp= 45, Pressure= 78-> CRITICAL Temperature Alarm
+[2026-05-14 21:34:54] Machine= M03, Status=STOPPED, Temp= 44, Pressure= 48-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M05, Status=STOPPED, Temp= 24, Pressure= 44-> Machine Stopped
+[2026-05-14 21:34:54] Machine= M06, Status=RUNNING, Temp= 22, Pressure= 78-> Ok
+[2026-05-14 21:39:22] Machine= M01, Status=STOPPED, Temp= 20, Pressure= 68-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M02, Status=STOPPED, Temp= 36, Pressure= 66-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M02, Status=STOPPED, Temp= 22, Pressure= 52-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M05, Status=STOPPED, Temp= 21, Pressure= 72-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M05, Status=RUNNING, Temp= 50, Pressure= 43-> CRITICAL Temperature Alarm
+[2026-05-14 21:39:22] Machine= M01, Status=RUNNING, Temp= 45, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-14 21:39:22] Machine= M03, Status=RUNNING, Temp= 34, Pressure= 90-> Temperature Alarm
+[2026-05-14 21:39:22] Machine= M04, Status=RUNNING, Temp= 50, Pressure= 86-> CRITICAL Temperature Alarm
+[2026-05-14 21:39:22] Machine= M05, Status=STOPPED, Temp= 50, Pressure= 84-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M04, Status=STOPPED, Temp= 45, Pressure= 47-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M02, Status=STOPPED, Temp= 47, Pressure= 40-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M04, Status=STOPPED, Temp= 45, Pressure= 63-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M04, Status=STOPPED, Temp= 35, Pressure= 85-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M03, Status=STOPPED, Temp= 34, Pressure= 50-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M05, Status=STOPPED, Temp= 33, Pressure= 48-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M01, Status=STOPPED, Temp= 42, Pressure= 55-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M04, Status=STOPPED, Temp= 48, Pressure= 56-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M04, Status=RUNNING, Temp= 40, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-14 21:39:22] Machine= M06, Status=STOPPED, Temp= 37, Pressure= 54-> Machine Stopped
+[2026-05-14 21:39:22] Machine= M03, Status=RUNNING, Temp= 34, Pressure= 80-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M01, Status=RUNNING, Temp= 40, Pressure= 74-> CRITICAL Temperature Alarm
+[2026-05-14 21:40:36] Machine= M01, Status=STOPPED, Temp= 39, Pressure= 50-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M03, Status=STOPPED, Temp= 36, Pressure= 88-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M06, Status=STOPPED, Temp= 27, Pressure= 41-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M04, Status=STOPPED, Temp= 44, Pressure= 57-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 81-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M01, Status=STOPPED, Temp= 50, Pressure= 51-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M06, Status=RUNNING, Temp= 20, Pressure= 68-> Ok
+[2026-05-14 21:40:36] Machine= M01, Status=RUNNING, Temp= 36, Pressure= 86-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M02, Status=STOPPED, Temp= 27, Pressure= 62-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M03, Status=STOPPED, Temp= 40, Pressure= 69-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M05, Status=RUNNING, Temp= 38, Pressure= 58-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 77-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M05, Status=STOPPED, Temp= 38, Pressure= 88-> Machine Stopped
+[2026-05-14 21:40:36] Machine= M04, Status=RUNNING, Temp= 41, Pressure= 89-> CRITICAL Temperature Alarm
+[2026-05-14 21:40:36] Machine= M06, Status=RUNNING, Temp= 39, Pressure= 85-> Temperature Alarm
+[2026-05-14 21:40:36] Machine= M05, Status=RUNNING, Temp= 26, Pressure= 78-> Ok
+[2026-05-14 21:40:36] Machine= M03, Status=RUNNING, Temp= 49, Pressure= 65-> CRITICAL Temperature Alarm
+[2026-05-14 21:40:36] Machine= M02, Status=RUNNING, Temp= 46, Pressure= 78-> CRITICAL Temperature Alarm
+[2026-05-14 21:40:36] Machine= M04, Status=RUNNING, Temp= 26, Pressure= 65-> Ok
+[2026-05-19 22:48:11] Machine= M04, Status=STOPPED, Temp= 39, Pressure= 70-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M04, Status=RUNNING, Temp= 45, Pressure= 89-> CRITICAL Temperature Alarm
+[2026-05-19 22:48:11] Machine= M05, Status=STOPPED, Temp= 22, Pressure= 44-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 41-> Temperature Alarm
+[2026-05-19 22:48:11] Machine= M01, Status=RUNNING, Temp= 36, Pressure= 76-> Temperature Alarm
+[2026-05-19 22:48:11] Machine= M06, Status=RUNNING, Temp= 49, Pressure= 65-> CRITICAL Temperature Alarm
+[2026-05-19 22:48:11] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 79-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M05, Status=RUNNING, Temp= 37, Pressure= 78-> Temperature Alarm
+[2026-05-19 22:48:11] Machine= M06, Status=RUNNING, Temp= 40, Pressure= 44-> CRITICAL Temperature Alarm
+[2026-05-19 22:48:11] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 67-> Temperature Alarm
+[2026-05-19 22:48:11] Machine= M06, Status=RUNNING, Temp= 23, Pressure= 66-> Ok
+[2026-05-19 22:48:11] Machine= M06, Status=STOPPED, Temp= 40, Pressure= 70-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M04, Status=RUNNING, Temp= 35, Pressure= 74-> Temperature Alarm
+[2026-05-19 22:48:11] Machine= M02, Status=STOPPED, Temp= 29, Pressure= 50-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 59-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M02, Status=STOPPED, Temp= 29, Pressure= 73-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M05, Status=RUNNING, Temp= 29, Pressure= 59-> Ok
+[2026-05-19 22:48:11] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 42-> Machine Stopped
+[2026-05-19 22:48:11] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 42-> CRITICAL Temperature Alarm
+[2026-05-19 22:48:11] Machine= M05, Status=STOPPED, Temp= 23, Pressure= 60-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 37, Pressure= 46-> Temperature Alarm
+[2026-05-19 22:55:40] Machine= M02, Status=STOPPED, Temp= 35, Pressure= 80-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M03, Status=STOPPED, Temp= 37, Pressure= 84-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 26, Pressure= 61-> Ok
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 46, Pressure= 45-> CRITICAL Temperature Alarm
+[2026-05-19 22:55:40] Machine= M02, Status=STOPPED, Temp= 25, Pressure= 43-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M01, Status=RUNNING, Temp= 25, Pressure= 42-> Low Pressure
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 43, Pressure= 63-> CRITICAL Temperature Alarm
+[2026-05-19 22:55:40] Machine= M02, Status=RUNNING, Temp= 34, Pressure= 88-> Temperature Alarm
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 24, Pressure= 74-> Ok
+[2026-05-19 22:55:40] Machine= M05, Status=RUNNING, Temp= 26, Pressure= 88-> Ok
+[2026-05-19 22:55:40] Machine= M02, Status=STOPPED, Temp= 45, Pressure= 84-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M01, Status=STOPPED, Temp= 31, Pressure= 80-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M02, Status=RUNNING, Temp= 22, Pressure= 71-> Ok
+[2026-05-19 22:55:40] Machine= M04, Status=STOPPED, Temp= 48, Pressure= 59-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M02, Status=STOPPED, Temp= 24, Pressure= 90-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M05, Status=STOPPED, Temp= 31, Pressure= 55-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M01, Status=STOPPED, Temp= 28, Pressure= 62-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M03, Status=STOPPED, Temp= 37, Pressure= 55-> Machine Stopped
+[2026-05-19 22:55:40] Machine= M01, Status=RUNNING, Temp= 45, Pressure= 47-> CRITICAL Temperature Alarm
+[2026-05-19 22:59:27] Machine= M02, Status=RUNNING, Temp= 29, Pressure= 43-> Low Pressure
+[2026-05-19 22:59:27] Machine= M06, Status=RUNNING, Temp= 46, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-05-19 22:59:27] Machine= M03, Status=RUNNING, Temp= 29, Pressure= 85-> Ok
+[2026-05-19 22:59:27] Machine= M03, Status=RUNNING, Temp= 46, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-19 22:59:27] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 66-> Ok
+[2026-05-19 22:59:27] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-19 22:59:27] Machine= M06, Status=RUNNING, Temp= 28, Pressure= 63-> Ok
+[2026-05-19 22:59:27] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 69-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M06, Status=RUNNING, Temp= 48, Pressure= 65-> CRITICAL Temperature Alarm
+[2026-05-19 22:59:27] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 79-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M04, Status=STOPPED, Temp= 27, Pressure= 75-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M04, Status=RUNNING, Temp= 23, Pressure= 58-> Ok
+[2026-05-19 22:59:27] Machine= M01, Status=RUNNING, Temp= 36, Pressure= 63-> Temperature Alarm
+[2026-05-19 22:59:27] Machine= M03, Status=STOPPED, Temp= 50, Pressure= 84-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 88-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 77-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M04, Status=STOPPED, Temp= 41, Pressure= 58-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M01, Status=STOPPED, Temp= 33, Pressure= 77-> Machine Stopped
+[2026-05-19 22:59:27] Machine= M06, Status=RUNNING, Temp= 33, Pressure= 77-> Temperature Alarm
+[2026-05-19 22:59:27] Machine= M01, Status=RUNNING, Temp= 49, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-19 23:03:04] Machine= M02, Status=STOPPED, Temp= 47, Pressure= 89-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M05, Status=RUNNING, Temp= 31, Pressure= 72-> Temperature Alarm
+[2026-05-19 23:03:04] Machine= M03, Status=RUNNING, Temp= 36, Pressure= 48-> Temperature Alarm
+[2026-05-19 23:03:04] Machine= M04, Status=STOPPED, Temp= 33, Pressure= 63-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M03, Status=STOPPED, Temp= 26, Pressure= 65-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M06, Status=RUNNING, Temp= 21, Pressure= 51-> Ok
+[2026-05-19 23:03:04] Machine= M05, Status=STOPPED, Temp= 43, Pressure= 45-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M05, Status=RUNNING, Temp= 28, Pressure= 87-> Ok
+[2026-05-19 23:03:04] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 81-> CRITICAL Temperature Alarm
+[2026-05-19 23:03:04] Machine= M02, Status=STOPPED, Temp= 27, Pressure= 69-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M02, Status=RUNNING, Temp= 39, Pressure= 63-> Temperature Alarm
+[2026-05-19 23:03:04] Machine= M02, Status=RUNNING, Temp= 21, Pressure= 61-> Ok
+[2026-05-19 23:03:04] Machine= M05, Status=RUNNING, Temp= 49, Pressure= 73-> CRITICAL Temperature Alarm
+[2026-05-19 23:03:04] Machine= M03, Status=RUNNING, Temp= 43, Pressure= 67-> CRITICAL Temperature Alarm
+[2026-05-19 23:03:04] Machine= M03, Status=RUNNING, Temp= 25, Pressure= 88-> Ok
+[2026-05-19 23:03:04] Machine= M02, Status=RUNNING, Temp= 43, Pressure= 41-> CRITICAL Temperature Alarm
+[2026-05-19 23:03:04] Machine= M06, Status=STOPPED, Temp= 37, Pressure= 54-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M01, Status=STOPPED, Temp= 37, Pressure= 61-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M02, Status=STOPPED, Temp= 23, Pressure= 47-> Machine Stopped
+[2026-05-19 23:03:04] Machine= M03, Status=STOPPED, Temp= 44, Pressure= 64-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 35, Pressure= 65-> Temperature Alarm
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 23, Pressure= 66-> Ok
+[2026-05-20 20:39:41] Machine= M04, Status=STOPPED, Temp= 26, Pressure= 64-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M06, Status=RUNNING, Temp= 26, Pressure= 43-> Low Pressure
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 25, Pressure= 50-> Ok
+[2026-05-20 20:39:41] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 74-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 25, Pressure= 53-> Ok
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 41-> Low Pressure
+[2026-05-20 20:39:41] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 72-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M01, Status=STOPPED, Temp= 36, Pressure= 62-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M04, Status=STOPPED, Temp= 28, Pressure= 44-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M06, Status=STOPPED, Temp= 21, Pressure= 51-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M02, Status=STOPPED, Temp= 23, Pressure= 59-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M01, Status=STOPPED, Temp= 40, Pressure= 59-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M01, Status=STOPPED, Temp= 45, Pressure= 64-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M01, Status=STOPPED, Temp= 36, Pressure= 67-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M01, Status=STOPPED, Temp= 32, Pressure= 87-> Machine Stopped
+[2026-05-20 20:39:41] Machine= M04, Status=RUNNING, Temp= 50, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-20 20:39:41] Machine= M06, Status=RUNNING, Temp= 28, Pressure= 71-> Ok
+[2026-05-20 20:39:41] Machine= M05, Status=RUNNING, Temp= 43, Pressure= 75-> CRITICAL Temperature Alarm
+[2026-05-20 20:40:14] Machine= M04, Status=RUNNING, Temp= 47, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-05-20 20:40:14] Machine= M05, Status=STOPPED, Temp= 44, Pressure= 69-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M04, Status=STOPPED, Temp= 38, Pressure= 51-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 58-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M02, Status=STOPPED, Temp= 37, Pressure= 58-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M02, Status=RUNNING, Temp= 23, Pressure= 68-> Ok
+[2026-05-20 20:40:14] Machine= M03, Status=RUNNING, Temp= 32, Pressure= 49-> Temperature Alarm
+[2026-05-20 20:40:14] Machine= M05, Status=RUNNING, Temp= 34, Pressure= 78-> Temperature Alarm
+[2026-05-20 20:40:14] Machine= M05, Status=RUNNING, Temp= 22, Pressure= 69-> Ok
+[2026-05-20 20:40:14] Machine= M02, Status=RUNNING, Temp= 28, Pressure= 70-> Ok
+[2026-05-20 20:40:14] Machine= M03, Status=RUNNING, Temp= 20, Pressure= 82-> Ok
+[2026-05-20 20:40:14] Machine= M04, Status=RUNNING, Temp= 39, Pressure= 46-> Temperature Alarm
+[2026-05-20 20:40:14] Machine= M03, Status=RUNNING, Temp= 38, Pressure= 63-> Temperature Alarm
+[2026-05-20 20:40:14] Machine= M04, Status=RUNNING, Temp= 45, Pressure= 45-> CRITICAL Temperature Alarm
+[2026-05-20 20:40:14] Machine= M06, Status=STOPPED, Temp= 44, Pressure= 40-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M02, Status=RUNNING, Temp= 24, Pressure= 71-> Ok
+[2026-05-20 20:40:14] Machine= M06, Status=STOPPED, Temp= 21, Pressure= 72-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 75-> Ok
+[2026-05-20 20:40:14] Machine= M06, Status=STOPPED, Temp= 35, Pressure= 47-> Machine Stopped
+[2026-05-20 20:40:14] Machine= M06, Status=STOPPED, Temp= 27, Pressure= 68-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M02, Status=STOPPED, Temp= 21, Pressure= 51-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M06, Status=STOPPED, Temp= 46, Pressure= 48-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M06, Status=RUNNING, Temp= 41, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-20 20:40:57] Machine= M04, Status=STOPPED, Temp= 22, Pressure= 49-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M04, Status=STOPPED, Temp= 33, Pressure= 80-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M04, Status=STOPPED, Temp= 46, Pressure= 69-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M06, Status=STOPPED, Temp= 50, Pressure= 76-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M06, Status=STOPPED, Temp= 22, Pressure= 75-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M05, Status=STOPPED, Temp= 44, Pressure= 61-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M02, Status=RUNNING, Temp= 26, Pressure= 90-> Ok
+[2026-05-20 20:40:57] Machine= M01, Status=STOPPED, Temp= 43, Pressure= 58-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M03, Status=RUNNING, Temp= 35, Pressure= 45-> Temperature Alarm
+[2026-05-20 20:40:57] Machine= M05, Status=STOPPED, Temp= 28, Pressure= 65-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M02, Status=RUNNING, Temp= 42, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-20 20:40:57] Machine= M04, Status=STOPPED, Temp= 39, Pressure= 42-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M05, Status=RUNNING, Temp= 32, Pressure= 66-> Temperature Alarm
+[2026-05-20 20:40:57] Machine= M05, Status=STOPPED, Temp= 42, Pressure= 57-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M04, Status=RUNNING, Temp= 30, Pressure= 76-> Ok
+[2026-05-20 20:40:57] Machine= M02, Status=STOPPED, Temp= 29, Pressure= 76-> Machine Stopped
+[2026-05-20 20:40:57] Machine= M01, Status=RUNNING, Temp= 21, Pressure= 79-> Ok
+[2026-05-20 20:53:50] Machine= M03, Status=RUNNING, Temp= 36, Pressure= 85-> Temperature Alarm
+[2026-05-20 20:53:50] Machine= M05, Status=RUNNING, Temp= 50, Pressure= 76-> CRITICAL Temperature Alarm
+[2026-05-20 20:53:50] Machine= M05, Status=STOPPED, Temp= 36, Pressure= 52-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M01, Status=RUNNING, Temp= 48, Pressure= 87-> CRITICAL Temperature Alarm
+[2026-05-20 20:53:50] Machine= M02, Status=RUNNING, Temp= 24, Pressure= 58-> Ok
+[2026-05-20 20:53:50] Machine= M01, Status=RUNNING, Temp= 50, Pressure= 59-> CRITICAL Temperature Alarm
+[2026-05-20 20:53:50] Machine= M01, Status=RUNNING, Temp= 23, Pressure= 43-> Low Pressure
+[2026-05-20 20:53:50] Machine= M02, Status=RUNNING, Temp= 30, Pressure= 86-> Ok
+[2026-05-20 20:53:50] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 85-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M05, Status=STOPPED, Temp= 45, Pressure= 71-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M02, Status=STOPPED, Temp= 49, Pressure= 66-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M04, Status=STOPPED, Temp= 33, Pressure= 84-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M02, Status=STOPPED, Temp= 27, Pressure= 79-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M01, Status=STOPPED, Temp= 25, Pressure= 60-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M04, Status=RUNNING, Temp= 20, Pressure= 72-> Ok
+[2026-05-20 20:53:50] Machine= M02, Status=STOPPED, Temp= 48, Pressure= 46-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M01, Status=STOPPED, Temp= 32, Pressure= 46-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M03, Status=STOPPED, Temp= 20, Pressure= 75-> Machine Stopped
+[2026-05-20 20:53:50] Machine= M02, Status=RUNNING, Temp= 49, Pressure= 53-> CRITICAL Temperature Alarm
+[2026-05-20 20:53:50] Machine= M02, Status=RUNNING, Temp= 31, Pressure= 59-> Temperature Alarm
+[2026-05-20 21:22:38] Machine= M03, Status=STOPPED, Temp= 29, Pressure= 58-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M05, Status=RUNNING, Temp= 36, Pressure= 73-> Temperature Alarm
+[2026-05-20 21:22:38] Machine= M06, Status=RUNNING, Temp= 45, Pressure= 53-> CRITICAL Temperature Alarm
+[2026-05-20 21:22:38] Machine= M02, Status=STOPPED, Temp= 24, Pressure= 85-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M06, Status=RUNNING, Temp= 33, Pressure= 40-> Temperature Alarm
+[2026-05-20 21:22:38] Machine= M05, Status=STOPPED, Temp= 20, Pressure= 68-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M03, Status=RUNNING, Temp= 44, Pressure= 77-> CRITICAL Temperature Alarm
+[2026-05-20 21:22:38] Machine= M05, Status=STOPPED, Temp= 50, Pressure= 63-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 84-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 83-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M01, Status=STOPPED, Temp= 37, Pressure= 89-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M01, Status=RUNNING, Temp= 25, Pressure= 49-> Low Pressure
+[2026-05-20 21:22:38] Machine= M05, Status=STOPPED, Temp= 41, Pressure= 72-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M02, Status=STOPPED, Temp= 20, Pressure= 55-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M02, Status=RUNNING, Temp= 31, Pressure= 72-> Temperature Alarm
+[2026-05-20 21:22:38] Machine= M04, Status=RUNNING, Temp= 27, Pressure= 64-> Ok
+[2026-05-20 21:22:38] Machine= M01, Status=RUNNING, Temp= 27, Pressure= 46-> Low Pressure
+[2026-05-20 21:22:38] Machine= M06, Status=STOPPED, Temp= 26, Pressure= 41-> Machine Stopped
+[2026-05-20 21:22:38] Machine= M05, Status=RUNNING, Temp= 21, Pressure= 65-> Ok
+[2026-05-20 21:22:38] Machine= M02, Status=STOPPED, Temp= 24, Pressure= 52-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M04, Status=RUNNING, Temp= 34, Pressure= 71-> Temperature Alarm
+[2026-05-20 21:29:18] Machine= M01, Status=RUNNING, Temp= 49, Pressure= 62-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M03, Status=RUNNING, Temp= 28, Pressure= 82-> Ok
+[2026-05-20 21:29:18] Machine= M06, Status=STOPPED, Temp= 47, Pressure= 61-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M03, Status=RUNNING, Temp= 30, Pressure= 74-> Ok
+[2026-05-20 21:29:18] Machine= M06, Status=STOPPED, Temp= 32, Pressure= 86-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M03, Status=RUNNING, Temp= 47, Pressure= 88-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M02, Status=RUNNING, Temp= 33, Pressure= 44-> Temperature Alarm
+[2026-05-20 21:29:18] Machine= M01, Status=RUNNING, Temp= 47, Pressure= 56-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M06, Status=STOPPED, Temp= 35, Pressure= 71-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M06, Status=RUNNING, Temp= 46, Pressure= 90-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M05, Status=RUNNING, Temp= 47, Pressure= 48-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M03, Status=STOPPED, Temp= 39, Pressure= 86-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M05, Status=STOPPED, Temp= 31, Pressure= 49-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M06, Status=RUNNING, Temp= 35, Pressure= 62-> Temperature Alarm
+[2026-05-20 21:29:18] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 84-> CRITICAL Temperature Alarm
+[2026-05-20 21:29:18] Machine= M02, Status=RUNNING, Temp= 34, Pressure= 58-> Temperature Alarm
+[2026-05-20 21:29:18] Machine= M04, Status=RUNNING, Temp= 33, Pressure= 79-> Temperature Alarm
+[2026-05-20 21:29:18] Machine= M06, Status=STOPPED, Temp= 34, Pressure= 42-> Machine Stopped
+[2026-05-20 21:29:18] Machine= M02, Status=RUNNING, Temp= 38, Pressure= 40-> Temperature Alarm
+[2026-05-21 20:50:01] Machine= M01, Status=STOPPED, Temp= 50, Pressure= 80-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M06, Status=STOPPED, Temp= 40, Pressure= 49-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M05, Status=RUNNING, Temp= 22, Pressure= 81-> Ok
+[2026-05-21 20:50:01] Machine= M05, Status=RUNNING, Temp= 44, Pressure= 84-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M01, Status=STOPPED, Temp= 44, Pressure= 60-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 43-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M04, Status=RUNNING, Temp= 42, Pressure= 88-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M04, Status=RUNNING, Temp= 34, Pressure= 87-> Temperature Alarm
+[2026-05-21 20:50:01] Machine= M01, Status=RUNNING, Temp= 50, Pressure= 85-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M03, Status=RUNNING, Temp= 45, Pressure= 75-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M03, Status=STOPPED, Temp= 49, Pressure= 70-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M04, Status=STOPPED, Temp= 46, Pressure= 81-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M06, Status=RUNNING, Temp= 30, Pressure= 62-> Ok
+[2026-05-21 20:50:01] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 43-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M03, Status=STOPPED, Temp= 27, Pressure= 52-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M03, Status=STOPPED, Temp= 26, Pressure= 72-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M03, Status=STOPPED, Temp= 33, Pressure= 63-> Machine Stopped
+[2026-05-21 20:50:01] Machine= M01, Status=RUNNING, Temp= 20, Pressure= 46-> Low Pressure
+[2026-05-21 20:50:01] Machine= M02, Status=RUNNING, Temp= 50, Pressure= 46-> CRITICAL Temperature Alarm
+[2026-05-21 20:50:01] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 51-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M03, Status=RUNNING, Temp= 33, Pressure= 52-> Temperature Alarm
+[2026-05-21 21:15:45] Machine= M06, Status=STOPPED, Temp= 28, Pressure= 49-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M03, Status=RUNNING, Temp= 33, Pressure= 67-> Temperature Alarm
+[2026-05-21 21:15:45] Machine= M06, Status=RUNNING, Temp= 21, Pressure= 69-> Ok
+[2026-05-21 21:15:45] Machine= M01, Status=STOPPED, Temp= 30, Pressure= 44-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M06, Status=RUNNING, Temp= 44, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-21 21:15:45] Machine= M05, Status=STOPPED, Temp= 50, Pressure= 59-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M03, Status=RUNNING, Temp= 22, Pressure= 85-> Ok
+[2026-05-21 21:15:45] Machine= M04, Status=RUNNING, Temp= 31, Pressure= 85-> Temperature Alarm
+[2026-05-21 21:15:45] Machine= M02, Status=STOPPED, Temp= 37, Pressure= 74-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M02, Status=RUNNING, Temp= 20, Pressure= 58-> Ok
+[2026-05-21 21:15:45] Machine= M05, Status=RUNNING, Temp= 22, Pressure= 51-> Ok
+[2026-05-21 21:15:45] Machine= M02, Status=STOPPED, Temp= 37, Pressure= 83-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M04, Status=RUNNING, Temp= 23, Pressure= 66-> Ok
+[2026-05-21 21:15:45] Machine= M03, Status=RUNNING, Temp= 45, Pressure= 73-> CRITICAL Temperature Alarm
+[2026-05-21 21:15:45] Machine= M06, Status=STOPPED, Temp= 44, Pressure= 77-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M05, Status=STOPPED, Temp= 49, Pressure= 47-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M06, Status=STOPPED, Temp= 25, Pressure= 85-> Machine Stopped
+[2026-05-21 21:15:45] Machine= M06, Status=RUNNING, Temp= 29, Pressure= 46-> Low Pressure
+[2026-05-21 21:15:45] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 69-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M04, Status=STOPPED, Temp= 31, Pressure= 46-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M02, Status=RUNNING, Temp= 33, Pressure= 66-> Temperature Alarm
+[2026-05-21 21:17:55] Machine= M01, Status=RUNNING, Temp= 50, Pressure= 61-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M02, Status=STOPPED, Temp= 42, Pressure= 65-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M04, Status=RUNNING, Temp= 49, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M01, Status=RUNNING, Temp= 21, Pressure= 45-> Low Pressure
+[2026-05-21 21:17:55] Machine= M01, Status=STOPPED, Temp= 39, Pressure= 84-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M01, Status=RUNNING, Temp= 41, Pressure= 75-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M03, Status=STOPPED, Temp= 42, Pressure= 87-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M05, Status=RUNNING, Temp= 45, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M04, Status=RUNNING, Temp= 37, Pressure= 84-> Temperature Alarm
+[2026-05-21 21:17:55] Machine= M06, Status=RUNNING, Temp= 40, Pressure= 68-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M02, Status=RUNNING, Temp= 38, Pressure= 84-> Temperature Alarm
+[2026-05-21 21:17:55] Machine= M01, Status=STOPPED, Temp= 29, Pressure= 43-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 69-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M01, Status=STOPPED, Temp= 41, Pressure= 40-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M05, Status=RUNNING, Temp= 41, Pressure= 55-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M06, Status=STOPPED, Temp= 36, Pressure= 46-> Machine Stopped
+[2026-05-21 21:17:55] Machine= M02, Status=RUNNING, Temp= 43, Pressure= 86-> CRITICAL Temperature Alarm
+[2026-05-21 21:17:55] Machine= M06, Status=RUNNING, Temp= 41, Pressure= 65-> CRITICAL Temperature Alarm
+[2026-05-21 21:24:07] Machine= M04, Status=STOPPED, Temp= 43, Pressure= 51-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M03, Status=STOPPED, Temp= 50, Pressure= 79-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M03, Status=STOPPED, Temp= 39, Pressure= 60-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M04, Status=RUNNING, Temp= 25, Pressure= 53-> Ok
+[2026-05-21 21:24:07] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 40-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M02, Status=STOPPED, Temp= 21, Pressure= 71-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M01, Status=RUNNING, Temp= 32, Pressure= 44-> Temperature Alarm
+[2026-05-21 21:24:07] Machine= M02, Status=RUNNING, Temp= 38, Pressure= 64-> Temperature Alarm
+[2026-05-21 21:24:07] Machine= M03, Status=RUNNING, Temp= 25, Pressure= 53-> Ok
+[2026-05-21 21:24:07] Machine= M02, Status=STOPPED, Temp= 46, Pressure= 65-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M04, Status=STOPPED, Temp= 47, Pressure= 64-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M01, Status=STOPPED, Temp= 44, Pressure= 75-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M02, Status=STOPPED, Temp= 23, Pressure= 49-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 83-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M03, Status=RUNNING, Temp= 39, Pressure= 54-> Temperature Alarm
+[2026-05-21 21:24:07] Machine= M01, Status=RUNNING, Temp= 32, Pressure= 57-> Temperature Alarm
+[2026-05-21 21:24:07] Machine= M06, Status=RUNNING, Temp= 49, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-21 21:24:07] Machine= M04, Status=STOPPED, Temp= 27, Pressure= 83-> Machine Stopped
+[2026-05-21 21:24:07] Machine= M03, Status=RUNNING, Temp= 49, Pressure= 66-> CRITICAL Temperature Alarm
+[2026-05-21 21:24:07] Machine= M01, Status=STOPPED, Temp= 35, Pressure= 53-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 63-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M04, Status=RUNNING, Temp= 20, Pressure= 49-> Low Pressure
+[2026-05-21 21:30:43] Machine= M02, Status=RUNNING, Temp= 43, Pressure= 54-> CRITICAL Temperature Alarm
+[2026-05-21 21:30:43] Machine= M06, Status=RUNNING, Temp= 20, Pressure= 62-> Ok
+[2026-05-21 21:30:43] Machine= M02, Status=RUNNING, Temp= 28, Pressure= 81-> Ok
+[2026-05-21 21:30:43] Machine= M02, Status=STOPPED, Temp= 35, Pressure= 61-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M01, Status=RUNNING, Temp= 39, Pressure= 52-> Temperature Alarm
+[2026-05-21 21:30:43] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 79-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M05, Status=RUNNING, Temp= 42, Pressure= 51-> CRITICAL Temperature Alarm
+[2026-05-21 21:30:43] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 45-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M06, Status=STOPPED, Temp= 23, Pressure= 68-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M03, Status=STOPPED, Temp= 23, Pressure= 50-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M01, Status=RUNNING, Temp= 29, Pressure= 80-> Ok
+[2026-05-21 21:30:43] Machine= M05, Status=STOPPED, Temp= 26, Pressure= 65-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M02, Status=STOPPED, Temp= 47, Pressure= 59-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M05, Status=RUNNING, Temp= 33, Pressure= 69-> Temperature Alarm
+[2026-05-21 21:30:43] Machine= M03, Status=STOPPED, Temp= 21, Pressure= 88-> Machine Stopped
+[2026-05-21 21:30:43] Machine= M01, Status=RUNNING, Temp= 20, Pressure= 52-> Ok
+[2026-05-21 21:30:43] Machine= M03, Status=RUNNING, Temp= 26, Pressure= 69-> Ok
+[2026-05-21 21:30:43] Machine= M01, Status=RUNNING, Temp= 40, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-21 21:31:27] Machine= M01, Status=RUNNING, Temp= 34, Pressure= 71-> Temperature Alarm
+[2026-05-21 21:31:27] Machine= M06, Status=RUNNING, Temp= 41, Pressure= 43-> CRITICAL Temperature Alarm
+[2026-05-21 21:31:27] Machine= M05, Status=STOPPED, Temp= 32, Pressure= 45-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M03, Status=STOPPED, Temp= 49, Pressure= 59-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M03, Status=RUNNING, Temp= 40, Pressure= 60-> CRITICAL Temperature Alarm
+[2026-05-21 21:31:27] Machine= M03, Status=STOPPED, Temp= 45, Pressure= 80-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M02, Status=STOPPED, Temp= 38, Pressure= 89-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 83-> Temperature Alarm
+[2026-05-21 21:31:27] Machine= M04, Status=STOPPED, Temp= 33, Pressure= 57-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M04, Status=STOPPED, Temp= 41, Pressure= 46-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M04, Status=STOPPED, Temp= 23, Pressure= 60-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M01, Status=RUNNING, Temp= 37, Pressure= 76-> Temperature Alarm
+[2026-05-21 21:31:27] Machine= M06, Status=STOPPED, Temp= 32, Pressure= 66-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M03, Status=STOPPED, Temp= 37, Pressure= 83-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M03, Status=RUNNING, Temp= 25, Pressure= 51-> Ok
+[2026-05-21 21:31:27] Machine= M01, Status=STOPPED, Temp= 24, Pressure= 87-> Machine Stopped
+[2026-05-21 21:31:27] Machine= M05, Status=RUNNING, Temp= 36, Pressure= 55-> Temperature Alarm
+[2026-05-21 21:31:27] Machine= M05, Status=RUNNING, Temp= 35, Pressure= 67-> Temperature Alarm
+[2026-05-21 21:31:27] Machine= M01, Status=RUNNING, Temp= 21, Pressure= 48-> Low Pressure
+[2026-05-21 21:31:27] Machine= M06, Status=RUNNING, Temp= 21, Pressure= 83-> Ok
+[2026-05-21 21:32:09] Machine= M04, Status=STOPPED, Temp= 26, Pressure= 78-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M04, Status=RUNNING, Temp= 50, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M06, Status=STOPPED, Temp= 23, Pressure= 47-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M04, Status=STOPPED, Temp= 24, Pressure= 62-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M04, Status=RUNNING, Temp= 42, Pressure= 66-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 62-> Ok
+[2026-05-21 21:32:09] Machine= M01, Status=RUNNING, Temp= 22, Pressure= 73-> Ok
+[2026-05-21 21:32:09] Machine= M06, Status=RUNNING, Temp= 46, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 63-> Temperature Alarm
+[2026-05-21 21:32:09] Machine= M06, Status=STOPPED, Temp= 37, Pressure= 47-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M02, Status=STOPPED, Temp= 42, Pressure= 58-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M04, Status=RUNNING, Temp= 22, Pressure= 49-> Low Pressure
+[2026-05-21 21:32:09] Machine= M06, Status=STOPPED, Temp= 39, Pressure= 72-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M04, Status=STOPPED, Temp= 31, Pressure= 48-> Machine Stopped
+[2026-05-21 21:32:09] Machine= M06, Status=RUNNING, Temp= 29, Pressure= 81-> Ok
+[2026-05-21 21:32:09] Machine= M06, Status=RUNNING, Temp= 49, Pressure= 64-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M04, Status=RUNNING, Temp= 45, Pressure= 71-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M05, Status=RUNNING, Temp= 46, Pressure= 55-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:09] Machine= M01, Status=RUNNING, Temp= 28, Pressure= 41-> Low Pressure
+[2026-05-21 21:32:09] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 66-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M03, Status=STOPPED, Temp= 36, Pressure= 56-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M06, Status=RUNNING, Temp= 43, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:49] Machine= M01, Status=STOPPED, Temp= 20, Pressure= 47-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M01, Status=STOPPED, Temp= 34, Pressure= 78-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M01, Status=RUNNING, Temp= 31, Pressure= 44-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M02, Status=RUNNING, Temp= 22, Pressure= 68-> Ok
+[2026-05-21 21:32:49] Machine= M02, Status=RUNNING, Temp= 34, Pressure= 78-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M02, Status=STOPPED, Temp= 45, Pressure= 51-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M03, Status=RUNNING, Temp= 37, Pressure= 79-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M06, Status=STOPPED, Temp= 47, Pressure= 84-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M05, Status=RUNNING, Temp= 34, Pressure= 77-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M01, Status=RUNNING, Temp= 43, Pressure= 72-> CRITICAL Temperature Alarm
+[2026-05-21 21:32:49] Machine= M03, Status=STOPPED, Temp= 45, Pressure= 76-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M02, Status=STOPPED, Temp= 50, Pressure= 58-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M06, Status=STOPPED, Temp= 34, Pressure= 48-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M06, Status=STOPPED, Temp= 27, Pressure= 59-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M04, Status=RUNNING, Temp= 36, Pressure= 55-> Temperature Alarm
+[2026-05-21 21:32:49] Machine= M04, Status=STOPPED, Temp= 42, Pressure= 65-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M06, Status=STOPPED, Temp= 29, Pressure= 53-> Machine Stopped
+[2026-05-21 21:32:49] Machine= M06, Status=STOPPED, Temp= 42, Pressure= 61-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M02, Status=STOPPED, Temp= 30, Pressure= 78-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M04, Status=STOPPED, Temp= 20, Pressure= 84-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M03, Status=STOPPED, Temp= 45, Pressure= 44-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M03, Status=RUNNING, Temp= 22, Pressure= 48-> Low Pressure
+[2026-05-21 21:33:27] Machine= M06, Status=RUNNING, Temp= 24, Pressure= 87-> Ok
+[2026-05-21 21:33:27] Machine= M02, Status=RUNNING, Temp= 48, Pressure= 90-> CRITICAL Temperature Alarm
+[2026-05-21 21:33:27] Machine= M05, Status=RUNNING, Temp= 37, Pressure= 61-> Temperature Alarm
+[2026-05-21 21:33:27] Machine= M06, Status=RUNNING, Temp= 30, Pressure= 58-> Ok
+[2026-05-21 21:33:27] Machine= M02, Status=STOPPED, Temp= 37, Pressure= 83-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M04, Status=STOPPED, Temp= 47, Pressure= 78-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M01, Status=STOPPED, Temp= 36, Pressure= 86-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 85-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M06, Status=STOPPED, Temp= 45, Pressure= 86-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M04, Status=STOPPED, Temp= 40, Pressure= 65-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M05, Status=STOPPED, Temp= 32, Pressure= 67-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M04, Status=RUNNING, Temp= 20, Pressure= 47-> Low Pressure
+[2026-05-21 21:33:27] Machine= M01, Status=STOPPED, Temp= 29, Pressure= 47-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M04, Status=STOPPED, Temp= 32, Pressure= 78-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M03, Status=STOPPED, Temp= 29, Pressure= 46-> Machine Stopped
+[2026-05-21 21:33:27] Machine= M06, Status=RUNNING, Temp= 39, Pressure= 73-> Temperature Alarm
+[2026-05-21 21:37:18] Machine= M01, Status=STOPPED, Temp= 35, Pressure= 46-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M06, Status=STOPPED, Temp= 43, Pressure= 47-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M02, Status=STOPPED, Temp= 44, Pressure= 52-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M04, Status=RUNNING, Temp= 45, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M02, Status=STOPPED, Temp= 21, Pressure= 73-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M05, Status=RUNNING, Temp= 46, Pressure= 69-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M04, Status=RUNNING, Temp= 40, Pressure= 47-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M01, Status=STOPPED, Temp= 44, Pressure= 41-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M04, Status=RUNNING, Temp= 42, Pressure= 47-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M03, Status=STOPPED, Temp= 23, Pressure= 65-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M01, Status=STOPPED, Temp= 46, Pressure= 62-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M04, Status=STOPPED, Temp= 42, Pressure= 58-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M06, Status=RUNNING, Temp= 47, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M02, Status=STOPPED, Temp= 40, Pressure= 43-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 46-> Temperature Alarm
+[2026-05-21 21:37:18] Machine= M02, Status=STOPPED, Temp= 39, Pressure= 74-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M01, Status=RUNNING, Temp= 23, Pressure= 57-> Ok
+[2026-05-21 21:37:18] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 60-> Machine Stopped
+[2026-05-21 21:37:18] Machine= M05, Status=RUNNING, Temp= 45, Pressure= 53-> CRITICAL Temperature Alarm
+[2026-05-21 21:37:18] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 62-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M06, Status=RUNNING, Temp= 24, Pressure= 47-> Low Pressure
+[2026-05-21 21:38:50] Machine= M01, Status=STOPPED, Temp= 34, Pressure= 78-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M06, Status=STOPPED, Temp= 45, Pressure= 56-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M06, Status=RUNNING, Temp= 50, Pressure= 44-> CRITICAL Temperature Alarm
+[2026-05-21 21:38:50] Machine= M06, Status=STOPPED, Temp= 35, Pressure= 87-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M03, Status=STOPPED, Temp= 42, Pressure= 69-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 61-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M02, Status=RUNNING, Temp= 40, Pressure= 54-> CRITICAL Temperature Alarm
+[2026-05-21 21:38:50] Machine= M01, Status=RUNNING, Temp= 49, Pressure= 49-> CRITICAL Temperature Alarm
+[2026-05-21 21:38:50] Machine= M02, Status=STOPPED, Temp= 37, Pressure= 53-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M04, Status=STOPPED, Temp= 34, Pressure= 58-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M02, Status=STOPPED, Temp= 39, Pressure= 67-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M03, Status=RUNNING, Temp= 27, Pressure= 77-> Ok
+[2026-05-21 21:38:50] Machine= M06, Status=RUNNING, Temp= 32, Pressure= 77-> Temperature Alarm
+[2026-05-21 21:38:50] Machine= M03, Status=STOPPED, Temp= 29, Pressure= 46-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M01, Status=STOPPED, Temp= 44, Pressure= 49-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M01, Status=STOPPED, Temp= 39, Pressure= 47-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M02, Status=RUNNING, Temp= 38, Pressure= 79-> Temperature Alarm
+[2026-05-21 21:38:50] Machine= M02, Status=STOPPED, Temp= 45, Pressure= 63-> Machine Stopped
+[2026-05-21 21:38:50] Machine= M02, Status=RUNNING, Temp= 48, Pressure= 41-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:17] Machine= M04, Status=STOPPED, Temp= 21, Pressure= 56-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 73-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M04, Status=STOPPED, Temp= 41, Pressure= 63-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M02, Status=RUNNING, Temp= 34, Pressure= 86-> Temperature Alarm
+[2026-05-21 21:43:17] Machine= M02, Status=RUNNING, Temp= 25, Pressure= 51-> Ok
+[2026-05-21 21:43:17] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 44-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M02, Status=STOPPED, Temp= 31, Pressure= 58-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M03, Status=RUNNING, Temp= 23, Pressure= 86-> Ok
+[2026-05-21 21:43:17] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 50-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M04, Status=RUNNING, Temp= 31, Pressure= 66-> Temperature Alarm
+[2026-05-21 21:43:17] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 52-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M01, Status=RUNNING, Temp= 22, Pressure= 46-> Low Pressure
+[2026-05-21 21:43:17] Machine= M06, Status=STOPPED, Temp= 29, Pressure= 57-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M06, Status=STOPPED, Temp= 43, Pressure= 57-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M03, Status=RUNNING, Temp= 31, Pressure= 80-> Temperature Alarm
+[2026-05-21 21:43:17] Machine= M01, Status=RUNNING, Temp= 31, Pressure= 58-> Temperature Alarm
+[2026-05-21 21:43:17] Machine= M06, Status=RUNNING, Temp= 47, Pressure= 48-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:17] Machine= M05, Status=STOPPED, Temp= 48, Pressure= 45-> Machine Stopped
+[2026-05-21 21:43:17] Machine= M03, Status=RUNNING, Temp= 48, Pressure= 85-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:17] Machine= M02, Status=RUNNING, Temp= 20, Pressure= 65-> Ok
+[2026-05-21 21:43:58] Machine= M03, Status=RUNNING, Temp= 31, Pressure= 84-> Temperature Alarm
+[2026-05-21 21:43:58] Machine= M02, Status=STOPPED, Temp= 45, Pressure= 45-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 40-> Low Pressure
+[2026-05-21 21:43:58] Machine= M03, Status=STOPPED, Temp= 35, Pressure= 85-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M05, Status=RUNNING, Temp= 23, Pressure= 48-> Low Pressure
+[2026-05-21 21:43:58] Machine= M01, Status=RUNNING, Temp= 43, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:58] Machine= M06, Status=RUNNING, Temp= 41, Pressure= 86-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:58] Machine= M06, Status=RUNNING, Temp= 38, Pressure= 82-> Temperature Alarm
+[2026-05-21 21:43:58] Machine= M04, Status=STOPPED, Temp= 27, Pressure= 61-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M04, Status=RUNNING, Temp= 26, Pressure= 47-> Low Pressure
+[2026-05-21 21:43:58] Machine= M01, Status=RUNNING, Temp= 46, Pressure= 83-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:58] Machine= M03, Status=RUNNING, Temp= 44, Pressure= 68-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:58] Machine= M05, Status=STOPPED, Temp= 48, Pressure= 73-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M04, Status=RUNNING, Temp= 48, Pressure= 69-> CRITICAL Temperature Alarm
+[2026-05-21 21:43:58] Machine= M04, Status=RUNNING, Temp= 23, Pressure= 69-> Ok
+[2026-05-21 21:43:58] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 73-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M03, Status=STOPPED, Temp= 50, Pressure= 54-> Machine Stopped
+[2026-05-21 21:43:58] Machine= M04, Status=RUNNING, Temp= 30, Pressure= 67-> Ok
+[2026-05-21 21:43:58] Machine= M02, Status=RUNNING, Temp= 25, Pressure= 71-> Ok
+[2026-05-21 21:43:58] Machine= M06, Status=STOPPED, Temp= 30, Pressure= 75-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M05, Status=STOPPED, Temp= 41, Pressure= 88-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M02, Status=RUNNING, Temp= 31, Pressure= 90-> Temperature Alarm
+[2026-05-21 21:44:23] Machine= M04, Status=RUNNING, Temp= 27, Pressure= 87-> Ok
+[2026-05-21 21:44:23] Machine= M03, Status=RUNNING, Temp= 28, Pressure= 52-> Ok
+[2026-05-21 21:44:23] Machine= M04, Status=STOPPED, Temp= 40, Pressure= 71-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M05, Status=RUNNING, Temp= 24, Pressure= 72-> Ok
+[2026-05-21 21:44:23] Machine= M04, Status=STOPPED, Temp= 46, Pressure= 66-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M06, Status=RUNNING, Temp= 24, Pressure= 57-> Ok
+[2026-05-21 21:44:23] Machine= M06, Status=RUNNING, Temp= 22, Pressure= 40-> Low Pressure
+[2026-05-21 21:44:23] Machine= M01, Status=RUNNING, Temp= 38, Pressure= 87-> Temperature Alarm
+[2026-05-21 21:44:23] Machine= M03, Status=STOPPED, Temp= 32, Pressure= 77-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M03, Status=RUNNING, Temp= 22, Pressure= 80-> Ok
+[2026-05-21 21:44:23] Machine= M01, Status=STOPPED, Temp= 47, Pressure= 63-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M04, Status=STOPPED, Temp= 29, Pressure= 46-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M01, Status=STOPPED, Temp= 22, Pressure= 71-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M06, Status=RUNNING, Temp= 39, Pressure= 61-> Temperature Alarm
+[2026-05-21 21:44:23] Machine= M02, Status=STOPPED, Temp= 50, Pressure= 76-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M06, Status=STOPPED, Temp= 41, Pressure= 70-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M03, Status=STOPPED, Temp= 33, Pressure= 86-> Machine Stopped
+[2026-05-21 21:44:23] Machine= M05, Status=STOPPED, Temp= 36, Pressure= 43-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M03, Status=RUNNING, Temp= 30, Pressure= 60-> Ok
+[2026-05-21 21:45:56] Machine= M05, Status=STOPPED, Temp= 45, Pressure= 76-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M01, Status=RUNNING, Temp= 46, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-21 21:45:56] Machine= M01, Status=RUNNING, Temp= 32, Pressure= 83-> Temperature Alarm
+[2026-05-21 21:45:56] Machine= M03, Status=RUNNING, Temp= 30, Pressure= 69-> Ok
+[2026-05-21 21:45:56] Machine= M06, Status=STOPPED, Temp= 50, Pressure= 78-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M03, Status=RUNNING, Temp= 23, Pressure= 58-> Ok
+[2026-05-21 21:45:56] Machine= M06, Status=STOPPED, Temp= 43, Pressure= 83-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M01, Status=RUNNING, Temp= 43, Pressure= 54-> CRITICAL Temperature Alarm
+[2026-05-21 21:45:56] Machine= M02, Status=RUNNING, Temp= 49, Pressure= 45-> CRITICAL Temperature Alarm
+[2026-05-21 21:45:56] Machine= M02, Status=STOPPED, Temp= 28, Pressure= 80-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-21 21:45:56] Machine= M01, Status=RUNNING, Temp= 27, Pressure= 44-> Low Pressure
+[2026-05-21 21:45:56] Machine= M01, Status=RUNNING, Temp= 34, Pressure= 63-> Temperature Alarm
+[2026-05-21 21:45:56] Machine= M02, Status=STOPPED, Temp= 49, Pressure= 76-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M06, Status=RUNNING, Temp= 23, Pressure= 53-> Ok
+[2026-05-21 21:45:56] Machine= M05, Status=STOPPED, Temp= 43, Pressure= 86-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M06, Status=STOPPED, Temp= 28, Pressure= 90-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M06, Status=STOPPED, Temp= 21, Pressure= 45-> Machine Stopped
+[2026-05-21 21:45:56] Machine= M05, Status=STOPPED, Temp= 20, Pressure= 77-> Machine Stopped
+[2026-05-22 20:27:27] Machine= M01, Status=RUNNING, Temp= 45, Pressure= 51-> CRITICAL Temperature Alarm
+[2026-05-22 20:27:27] Machine= M03, Status=RUNNING, Temp= 48, Pressure= 64-> CRITICAL Temperature Alarm
+[2026-05-22 20:27:27] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 65-> Temperature Alarm
+[2026-05-22 20:27:27] Machine= M02, Status=RUNNING, Temp= 31, Pressure= 67-> Temperature Alarm
+[2026-05-22 20:27:27] Machine= M05, Status=RUNNING, Temp= 27, Pressure= 63-> Ok
+[2026-05-22 20:27:27] Machine= M03, Status=RUNNING, Temp= 30, Pressure= 65-> Ok
+[2026-05-22 20:27:27] Machine= M06, Status=STOPPED, Temp= 38, Pressure= 68-> Machine Stopped
+[2026-05-22 20:27:27] Machine= M02, Status=RUNNING, Temp= 27, Pressure= 41-> Low Pressure
+[2026-05-22 20:27:27] Machine= M05, Status=RUNNING, Temp= 27, Pressure= 83-> Ok
+[2026-05-22 20:27:27] Machine= M01, Status=RUNNING, Temp= 22, Pressure= 82-> Ok
+[2026-05-22 20:27:27] Machine= M05, Status=RUNNING, Temp= 39, Pressure= 76-> Temperature Alarm
+[2026-05-22 20:27:27] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 45-> Low Pressure
+[2026-05-22 20:27:27] Machine= M03, Status=STOPPED, Temp= 23, Pressure= 58-> Machine Stopped
+[2026-05-22 20:27:27] Machine= M04, Status=STOPPED, Temp= 32, Pressure= 52-> Machine Stopped
+[2026-05-22 20:27:27] Machine= M03, Status=RUNNING, Temp= 35, Pressure= 73-> Temperature Alarm
+[2026-05-22 20:27:27] Machine= M03, Status=RUNNING, Temp= 40, Pressure= 71-> CRITICAL Temperature Alarm
+[2026-05-22 20:27:27] Machine= M02, Status=STOPPED, Temp= 26, Pressure= 56-> Machine Stopped
+[2026-05-22 20:27:27] Machine= M04, Status=RUNNING, Temp= 21, Pressure= 66-> Ok
+[2026-05-22 20:27:27] Machine= M05, Status=RUNNING, Temp= 20, Pressure= 82-> Ok
+[2026-05-22 20:27:27] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 74-> Temperature Alarm
+[2026-05-22 20:28:34] Machine= M03, Status=STOPPED, Temp= 39, Pressure= 49-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M04, Status=RUNNING, Temp= 47, Pressure= 74-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M06, Status=STOPPED, Temp= 36, Pressure= 58-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M05, Status=RUNNING, Temp= 28, Pressure= 90-> Ok
+[2026-05-22 20:28:34] Machine= M06, Status=RUNNING, Temp= 48, Pressure= 61-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M02, Status=STOPPED, Temp= 46, Pressure= 43-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M04, Status=RUNNING, Temp= 28, Pressure= 60-> Ok
+[2026-05-22 20:28:34] Machine= M04, Status=STOPPED, Temp= 34, Pressure= 69-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M03, Status=RUNNING, Temp= 26, Pressure= 50-> Ok
+[2026-05-22 20:28:34] Machine= M02, Status=STOPPED, Temp= 47, Pressure= 69-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M02, Status=STOPPED, Temp= 50, Pressure= 60-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M02, Status=RUNNING, Temp= 42, Pressure= 74-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M04, Status=RUNNING, Temp= 46, Pressure= 63-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M04, Status=RUNNING, Temp= 34, Pressure= 82-> Temperature Alarm
+[2026-05-22 20:28:34] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 51-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M02, Status=RUNNING, Temp= 50, Pressure= 62-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M05, Status=RUNNING, Temp= 44, Pressure= 43-> CRITICAL Temperature Alarm
+[2026-05-22 20:28:34] Machine= M04, Status=STOPPED, Temp= 26, Pressure= 43-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 88-> Machine Stopped
+[2026-05-22 20:28:34] Machine= M03, Status=STOPPED, Temp= 42, Pressure= 56-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M02, Status=STOPPED, Temp= 49, Pressure= 71-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M03, Status=RUNNING, Temp= 31, Pressure= 62-> Temperature Alarm
+[2026-05-22 20:29:31] Machine= M05, Status=RUNNING, Temp= 50, Pressure= 44-> CRITICAL Temperature Alarm
+[2026-05-22 20:29:31] Machine= M03, Status=STOPPED, Temp= 27, Pressure= 84-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M04, Status=RUNNING, Temp= 47, Pressure= 43-> CRITICAL Temperature Alarm
+[2026-05-22 20:29:31] Machine= M05, Status=STOPPED, Temp= 32, Pressure= 86-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M03, Status=STOPPED, Temp= 31, Pressure= 84-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M01, Status=RUNNING, Temp= 42, Pressure= 51-> CRITICAL Temperature Alarm
+[2026-05-22 20:29:31] Machine= M03, Status=STOPPED, Temp= 49, Pressure= 80-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M03, Status=STOPPED, Temp= 48, Pressure= 70-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M05, Status=RUNNING, Temp= 30, Pressure= 75-> Ok
+[2026-05-22 20:29:31] Machine= M03, Status=RUNNING, Temp= 25, Pressure= 81-> Ok
+[2026-05-22 20:29:31] Machine= M06, Status=RUNNING, Temp= 29, Pressure= 67-> Ok
+[2026-05-22 20:29:31] Machine= M04, Status=RUNNING, Temp= 24, Pressure= 42-> Low Pressure
+[2026-05-22 20:29:31] Machine= M06, Status=RUNNING, Temp= 32, Pressure= 64-> Temperature Alarm
+[2026-05-22 20:29:31] Machine= M06, Status=STOPPED, Temp= 39, Pressure= 72-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M04, Status=RUNNING, Temp= 49, Pressure= 49-> CRITICAL Temperature Alarm
+[2026-05-22 20:29:31] Machine= M01, Status=STOPPED, Temp= 20, Pressure= 74-> Machine Stopped
+[2026-05-22 20:29:31] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 83-> Temperature Alarm
+[2026-05-22 20:29:31] Machine= M05, Status=STOPPED, Temp= 30, Pressure= 45-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M05, Status=STOPPED, Temp= 34, Pressure= 42-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M06, Status=STOPPED, Temp= 37, Pressure= 76-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M04, Status=RUNNING, Temp= 49, Pressure= 55-> CRITICAL Temperature Alarm
+[2026-05-22 20:30:19] Machine= M03, Status=RUNNING, Temp= 20, Pressure= 83-> Ok
+[2026-05-22 20:30:19] Machine= M05, Status=STOPPED, Temp= 20, Pressure= 65-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 64-> CRITICAL Temperature Alarm
+[2026-05-22 20:30:19] Machine= M01, Status=STOPPED, Temp= 35, Pressure= 44-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M06, Status=RUNNING, Temp= 32, Pressure= 44-> Temperature Alarm
+[2026-05-22 20:30:19] Machine= M01, Status=RUNNING, Temp= 29, Pressure= 41-> Low Pressure
+[2026-05-22 20:30:19] Machine= M04, Status=RUNNING, Temp= 37, Pressure= 57-> Temperature Alarm
+[2026-05-22 20:30:19] Machine= M03, Status=STOPPED, Temp= 33, Pressure= 76-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M02, Status=STOPPED, Temp= 24, Pressure= 43-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 82-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M06, Status=STOPPED, Temp= 34, Pressure= 54-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M06, Status=RUNNING, Temp= 29, Pressure= 77-> Ok
+[2026-05-22 20:30:19] Machine= M01, Status=RUNNING, Temp= 35, Pressure= 56-> Temperature Alarm
+[2026-05-22 20:30:19] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 53-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 40-> Machine Stopped
+[2026-05-22 20:30:19] Machine= M04, Status=RUNNING, Temp= 20, Pressure= 90-> Ok
+[2026-05-22 20:30:19] Machine= M06, Status=STOPPED, Temp= 29, Pressure= 90-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M02, Status=STOPPED, Temp= 32, Pressure= 74-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M05, Status=STOPPED, Temp= 24, Pressure= 53-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M06, Status=STOPPED, Temp= 46, Pressure= 87-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M03, Status=RUNNING, Temp= 25, Pressure= 53-> Ok
+[2026-05-22 20:31:47] Machine= M06, Status=RUNNING, Temp= 24, Pressure= 53-> Ok
+[2026-05-22 20:31:47] Machine= M02, Status=STOPPED, Temp= 32, Pressure= 83-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M05, Status=RUNNING, Temp= 50, Pressure= 84-> CRITICAL Temperature Alarm
+[2026-05-22 20:31:47] Machine= M05, Status=STOPPED, Temp= 20, Pressure= 56-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M05, Status=STOPPED, Temp= 46, Pressure= 81-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M04, Status=RUNNING, Temp= 42, Pressure= 70-> CRITICAL Temperature Alarm
+[2026-05-22 20:31:47] Machine= M06, Status=RUNNING, Temp= 39, Pressure= 44-> Temperature Alarm
+[2026-05-22 20:31:47] Machine= M06, Status=STOPPED, Temp= 50, Pressure= 73-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M03, Status=RUNNING, Temp= 43, Pressure= 71-> CRITICAL Temperature Alarm
+[2026-05-22 20:31:47] Machine= M04, Status=STOPPED, Temp= 38, Pressure= 64-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M01, Status=STOPPED, Temp= 40, Pressure= 77-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M02, Status=STOPPED, Temp= 40, Pressure= 63-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 65-> CRITICAL Temperature Alarm
+[2026-05-22 20:31:47] Machine= M01, Status=STOPPED, Temp= 31, Pressure= 49-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M03, Status=STOPPED, Temp= 26, Pressure= 58-> Machine Stopped
+[2026-05-22 20:31:47] Machine= M01, Status=RUNNING, Temp= 26, Pressure= 85-> Ok
+[2026-05-22 20:40:23] Machine= M03, Status=RUNNING, Temp= 46, Pressure= 81-> CRITICAL Temperature Alarm
+[2026-05-22 20:40:23] Machine= M03, Status=STOPPED, Temp= 23, Pressure= 40-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M03, Status=RUNNING, Temp= 45, Pressure= 72-> CRITICAL Temperature Alarm
+[2026-05-22 20:40:23] Machine= M01, Status=STOPPED, Temp= 46, Pressure= 53-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M02, Status=STOPPED, Temp= 20, Pressure= 76-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M06, Status=STOPPED, Temp= 26, Pressure= 81-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M02, Status=STOPPED, Temp= 32, Pressure= 44-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M05, Status=STOPPED, Temp= 24, Pressure= 48-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M06, Status=STOPPED, Temp= 29, Pressure= 43-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M04, Status=RUNNING, Temp= 25, Pressure= 87-> Ok
+[2026-05-22 20:40:23] Machine= M04, Status=STOPPED, Temp= 40, Pressure= 57-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M02, Status=STOPPED, Temp= 20, Pressure= 60-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M05, Status=STOPPED, Temp= 28, Pressure= 62-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M05, Status=STOPPED, Temp= 49, Pressure= 57-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M02, Status=RUNNING, Temp= 25, Pressure= 40-> Low Pressure
+[2026-05-22 20:40:23] Machine= M03, Status=RUNNING, Temp= 31, Pressure= 71-> Temperature Alarm
+[2026-05-22 20:40:23] Machine= M03, Status=RUNNING, Temp= 48, Pressure= 52-> CRITICAL Temperature Alarm
+[2026-05-22 20:40:23] Machine= M01, Status=STOPPED, Temp= 24, Pressure= 61-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M01, Status=STOPPED, Temp= 32, Pressure= 50-> Machine Stopped
+[2026-05-22 20:40:23] Machine= M05, Status=RUNNING, Temp= 37, Pressure= 51-> Temperature Alarm
+[2026-05-26 21:18:05] Machine= M01, Status=STOPPED, Temp= 29, Pressure= 80-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M02, Status=STOPPED, Temp= 41, Pressure= 64-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M01, Status=STOPPED, Temp= 24, Pressure= 52-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 45-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M06, Status=STOPPED, Temp= 38, Pressure= 62-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M02, Status=RUNNING, Temp= 32, Pressure= 84-> Temperature Alarm
+[2026-05-26 21:18:05] Machine= M01, Status=STOPPED, Temp= 21, Pressure= 40-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 74-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M05, Status=RUNNING, Temp= 47, Pressure= 64-> CRITICAL Temperature Alarm
+[2026-05-26 21:18:05] Machine= M03, Status=RUNNING, Temp= 23, Pressure= 58-> Ok
+[2026-05-26 21:18:05] Machine= M06, Status=STOPPED, Temp= 32, Pressure= 46-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M03, Status=RUNNING, Temp= 46, Pressure= 89-> CRITICAL Temperature Alarm
+[2026-05-26 21:18:05] Machine= M03, Status=RUNNING, Temp= 37, Pressure= 84-> Temperature Alarm
+[2026-05-26 21:18:05] Machine= M03, Status=RUNNING, Temp= 39, Pressure= 88-> Temperature Alarm
+[2026-05-26 21:18:05] Machine= M04, Status=RUNNING, Temp= 23, Pressure= 72-> Ok
+[2026-05-26 21:18:05] Machine= M03, Status=RUNNING, Temp= 22, Pressure= 81-> Ok
+[2026-05-26 21:18:05] Machine= M01, Status=STOPPED, Temp= 28, Pressure= 82-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M02, Status=STOPPED, Temp= 47, Pressure= 62-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M03, Status=STOPPED, Temp= 48, Pressure= 49-> Machine Stopped
+[2026-05-26 21:18:05] Machine= M05, Status=RUNNING, Temp= 31, Pressure= 51-> Temperature Alarm
+[2026-05-26 21:19:34] Machine= M05, Status=RUNNING, Temp= 23, Pressure= 64-> Ok
+[2026-05-26 21:19:34] Machine= M01, Status=RUNNING, Temp= 42, Pressure= 49-> CRITICAL Temperature Alarm
+[2026-05-26 21:19:34] Machine= M05, Status=STOPPED, Temp= 29, Pressure= 71-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M04, Status=STOPPED, Temp= 22, Pressure= 44-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 68-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M04, Status=STOPPED, Temp= 27, Pressure= 77-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M05, Status=RUNNING, Temp= 28, Pressure= 75-> Ok
+[2026-05-26 21:19:34] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 53-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M06, Status=RUNNING, Temp= 31, Pressure= 41-> Temperature Alarm
+[2026-05-26 21:19:34] Machine= M02, Status=RUNNING, Temp= 31, Pressure= 72-> Temperature Alarm
+[2026-05-26 21:19:34] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 58-> CRITICAL Temperature Alarm
+[2026-05-26 21:19:34] Machine= M05, Status=STOPPED, Temp= 49, Pressure= 86-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 65-> Temperature Alarm
+[2026-05-26 21:19:34] Machine= M02, Status=RUNNING, Temp= 46, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-26 21:19:34] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 45-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M05, Status=STOPPED, Temp= 35, Pressure= 82-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M02, Status=STOPPED, Temp= 21, Pressure= 41-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M05, Status=STOPPED, Temp= 31, Pressure= 72-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M05, Status=STOPPED, Temp= 26, Pressure= 62-> Machine Stopped
+[2026-05-26 21:19:34] Machine= M06, Status=STOPPED, Temp= 22, Pressure= 78-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M06, Status=STOPPED, Temp= 24, Pressure= 70-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M02, Status=RUNNING, Temp= 34, Pressure= 76-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M04, Status=RUNNING, Temp= 38, Pressure= 46-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M06, Status=STOPPED, Temp= 49, Pressure= 51-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M06, Status=STOPPED, Temp= 50, Pressure= 81-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M04, Status=STOPPED, Temp= 37, Pressure= 54-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M02, Status=STOPPED, Temp= 32, Pressure= 72-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M03, Status=STOPPED, Temp= 21, Pressure= 57-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M01, Status=RUNNING, Temp= 28, Pressure= 64-> Ok
+[2026-05-26 21:21:15] Machine= M05, Status=RUNNING, Temp= 32, Pressure= 56-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M04, Status=RUNNING, Temp= 38, Pressure= 81-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M06, Status=RUNNING, Temp= 42, Pressure= 69-> CRITICAL Temperature Alarm
+[2026-05-26 21:21:15] Machine= M04, Status=RUNNING, Temp= 21, Pressure= 81-> Ok
+[2026-05-26 21:21:15] Machine= M02, Status=STOPPED, Temp= 38, Pressure= 62-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M01, Status=STOPPED, Temp= 31, Pressure= 46-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M05, Status=RUNNING, Temp= 35, Pressure= 52-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M02, Status=STOPPED, Temp= 32, Pressure= 87-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M05, Status=STOPPED, Temp= 41, Pressure= 65-> Machine Stopped
+[2026-05-26 21:21:15] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 70-> Temperature Alarm
+[2026-05-26 21:21:15] Machine= M01, Status=STOPPED, Temp= 48, Pressure= 85-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M04, Status=RUNNING, Temp= 32, Pressure= 57-> Temperature Alarm
+[2026-05-26 21:23:33] Machine= M02, Status=STOPPED, Temp= 30, Pressure= 79-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M01, Status=STOPPED, Temp= 41, Pressure= 89-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M02, Status=STOPPED, Temp= 24, Pressure= 41-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M04, Status=RUNNING, Temp= 34, Pressure= 84-> Temperature Alarm
+[2026-05-26 21:23:33] Machine= M03, Status=STOPPED, Temp= 28, Pressure= 40-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M04, Status=RUNNING, Temp= 46, Pressure= 66-> CRITICAL Temperature Alarm
+[2026-05-26 21:23:33] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 90-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M02, Status=RUNNING, Temp= 44, Pressure= 69-> CRITICAL Temperature Alarm
+[2026-05-26 21:23:33] Machine= M02, Status=STOPPED, Temp= 43, Pressure= 49-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M01, Status=STOPPED, Temp= 48, Pressure= 69-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M06, Status=RUNNING, Temp= 39, Pressure= 79-> Temperature Alarm
+[2026-05-26 21:23:33] Machine= M06, Status=STOPPED, Temp= 44, Pressure= 48-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M04, Status=RUNNING, Temp= 22, Pressure= 61-> Ok
+[2026-05-26 21:23:33] Machine= M01, Status=RUNNING, Temp= 38, Pressure= 82-> Temperature Alarm
+[2026-05-26 21:23:33] Machine= M06, Status=STOPPED, Temp= 42, Pressure= 82-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M04, Status=STOPPED, Temp= 50, Pressure= 80-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M05, Status=STOPPED, Temp= 43, Pressure= 63-> Machine Stopped
+[2026-05-26 21:23:33] Machine= M05, Status=RUNNING, Temp= 44, Pressure= 79-> CRITICAL Temperature Alarm
+[2026-05-26 21:23:33] Machine= M02, Status=STOPPED, Temp= 23, Pressure= 83-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M01, Status=RUNNING, Temp= 25, Pressure= 59-> Ok
+[2026-05-26 21:24:17] Machine= M03, Status=RUNNING, Temp= 37, Pressure= 65-> Temperature Alarm
+[2026-05-26 21:24:17] Machine= M06, Status=STOPPED, Temp= 22, Pressure= 44-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M03, Status=STOPPED, Temp= 41, Pressure= 79-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M02, Status=RUNNING, Temp= 24, Pressure= 40-> Low Pressure
+[2026-05-26 21:24:17] Machine= M03, Status=RUNNING, Temp= 43, Pressure= 50-> CRITICAL Temperature Alarm
+[2026-05-26 21:24:17] Machine= M04, Status=RUNNING, Temp= 46, Pressure= 66-> CRITICAL Temperature Alarm
+[2026-05-26 21:24:17] Machine= M05, Status=STOPPED, Temp= 47, Pressure= 75-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M03, Status=RUNNING, Temp= 36, Pressure= 44-> Temperature Alarm
+[2026-05-26 21:24:17] Machine= M03, Status=RUNNING, Temp= 48, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-05-26 21:24:17] Machine= M06, Status=RUNNING, Temp= 23, Pressure= 90-> Ok
+[2026-05-26 21:24:17] Machine= M04, Status=RUNNING, Temp= 38, Pressure= 79-> Temperature Alarm
+[2026-05-26 21:24:17] Machine= M01, Status=RUNNING, Temp= 39, Pressure= 46-> Temperature Alarm
+[2026-05-26 21:24:17] Machine= M03, Status=STOPPED, Temp= 26, Pressure= 45-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M04, Status=STOPPED, Temp= 22, Pressure= 48-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M06, Status=STOPPED, Temp= 25, Pressure= 42-> Machine Stopped
+[2026-05-26 21:24:17] Machine= M05, Status=RUNNING, Temp= 38, Pressure= 51-> Temperature Alarm
+[2026-05-26 21:24:17] Machine= M05, Status=RUNNING, Temp= 30, Pressure= 49-> Low Pressure
+[2026-05-26 21:24:17] Machine= M02, Status=RUNNING, Temp= 28, Pressure= 77-> Ok
+[2026-05-26 21:24:17] Machine= M02, Status=STOPPED, Temp= 40, Pressure= 77-> Machine Stopped

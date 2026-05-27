@@ -1,0 +1,82 @@
+[
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M02",
+        "status": "STOPPED",
+        "temp": 24,
+        "pressure": 67,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M04",
+        "status": "STOPPED",
+        "temp": 36,
+        "pressure": 46,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M03",
+        "status": "STOPPED",
+        "temp": 50,
+        "pressure": 89,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M05",
+        "status": "STOPPED",
+        "temp": 27,
+        "pressure": 56,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M03",
+        "status": "STOPPED",
+        "temp": 42,
+        "pressure": 90,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M04",
+        "status": "RUNNING",
+        "temp": 28,
+        "pressure": 78,
+        "result": "Ok"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M04",
+        "status": "STOPPED",
+        "temp": 41,
+        "pressure": 47,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M04",
+        "status": "STOPPED",
+        "temp": 26,
+        "pressure": 62,
+        "result": "Machine Stopped"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M06",
+        "status": "RUNNING",
+        "temp": 44,
+        "pressure": 82,
+        "result": "CRITICAL Temperature Alarm"
+    },
+    {
+        "timestamp": "2026-05-19 23:03:00",
+        "machine_id": "M04",
+        "status": "STOPPED",
+        "temp": 22,
+        "pressure": 60,
+        "result": "Machine Stopped"
+    }
+]
