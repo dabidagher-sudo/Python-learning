@@ -114,3 +114,11 @@ print("\nFactory Status: ", factory_status)
 factory.display_factory_status()
 
 factory.save_factory("factory_data.json")
+
+factory = Factory("Loaded Factory")
+
+factory.load_factory("factory_data.json")
+
+factory.display_factory_status()
+
+print("Factory Status", factory.get_factory_status())

@@ -1,28 +1,28 @@
-[2026-05-26 21:24:17] Machine ID= M01, Status= RUNNING, temp= 25, pressure= 59 -> Ok
-[2026-05-26 21:24:17] Machine ID= M03, Status= RUNNING, temp= 37, pressure= 65 -> Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M06, Status= STOPPED, temp= 22, pressure= 44 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M03, Status= STOPPED, temp= 41, pressure= 79 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M02, Status= RUNNING, temp= 24, pressure= 40 -> Low Pressure
-[2026-05-26 21:24:17] Machine ID= M03, Status= RUNNING, temp= 43, pressure= 50 -> CRITICAL Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M04, Status= RUNNING, temp= 46, pressure= 66 -> CRITICAL Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M05, Status= STOPPED, temp= 47, pressure= 75 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M03, Status= RUNNING, temp= 36, pressure= 44 -> Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M03, Status= RUNNING, temp= 48, pressure= 82 -> CRITICAL Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M06, Status= RUNNING, temp= 23, pressure= 90 -> Ok
-[2026-05-26 21:24:17] Machine ID= M04, Status= RUNNING, temp= 38, pressure= 79 -> Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M01, Status= RUNNING, temp= 39, pressure= 46 -> Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M03, Status= STOPPED, temp= 26, pressure= 45 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M04, Status= STOPPED, temp= 22, pressure= 48 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M06, Status= STOPPED, temp= 25, pressure= 42 -> Machine Stopped
-[2026-05-26 21:24:17] Machine ID= M05, Status= RUNNING, temp= 38, pressure= 51 -> Temperature Alarm
-[2026-05-26 21:24:17] Machine ID= M05, Status= RUNNING, temp= 30, pressure= 49 -> Low Pressure
-[2026-05-26 21:24:17] Machine ID= M02, Status= RUNNING, temp= 28, pressure= 77 -> Ok
-[2026-05-26 21:24:17] Machine ID= M02, Status= STOPPED, temp= 40, pressure= 77 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M04, Status= STOPPED, temp= 26, pressure= 66 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M06, Status= STOPPED, temp= 39, pressure= 46 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M01, Status= STOPPED, temp= 47, pressure= 74 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M02, Status= STOPPED, temp= 31, pressure= 55 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M04, Status= STOPPED, temp= 27, pressure= 75 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M02, Status= RUNNING, temp= 24, pressure= 80 -> Ok
+[2026-05-27 10:30:25] Machine ID= M03, Status= RUNNING, temp= 45, pressure= 76 -> CRITICAL Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M04, Status= STOPPED, temp= 26, pressure= 59 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M03, Status= RUNNING, temp= 46, pressure= 86 -> CRITICAL Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M02, Status= STOPPED, temp= 35, pressure= 75 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M02, Status= RUNNING, temp= 37, pressure= 80 -> Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M06, Status= RUNNING, temp= 40, pressure= 67 -> CRITICAL Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M06, Status= STOPPED, temp= 27, pressure= 73 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M03, Status= STOPPED, temp= 27, pressure= 75 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M05, Status= STOPPED, temp= 24, pressure= 47 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M03, Status= STOPPED, temp= 38, pressure= 85 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M04, Status= RUNNING, temp= 35, pressure= 59 -> Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M01, Status= RUNNING, temp= 32, pressure= 52 -> Temperature Alarm
+[2026-05-27 10:30:25] Machine ID= M06, Status= STOPPED, temp= 24, pressure= 63 -> Machine Stopped
+[2026-05-27 10:30:25] Machine ID= M06, Status= STOPPED, temp= 25, pressure= 66 -> Machine Stopped
 
 Summary:
-Total Alarms: 10
-Temperature Alarms: 5
-Pressure Alarms: 2
-Total Ok: 10
-Total Machines Down: 7
+Total Alarms: 6
+Temperature Alarms: 3
+Pressure Alarms: 0
+Total Ok: 14
+Total Machines Down: 13
 Critical Alarms: 3
