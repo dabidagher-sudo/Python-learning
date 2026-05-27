@@ -60,53 +60,76 @@ class Factory:
     def load_factory(self, filename):
 
         print("\nLoading Machines...")
-        with open (filename, "r") as file:
-            factory_data= json.load(file)
+        
+        try:
+            with open (filename, "r") as file:
+                factory_data= json.load(file)
+
+        except FileNotFoundError:
+            print(f"Error: file not found -> {filename}")
+            return
+        except json.JSONDecodeError:
+            print(f"Error: invalid JSON format -> {filename}")
 
         self.machines= []
         loaded_count=0
+        skypped_count=0
 
         for machine_data in factory_data:
-            machine_type = machine_data["machine_type"]
 
-            if machine_type == "Machine":
-                machine= Machine(
-                    machine_data["machine_id"],
-                    machine_data["status"],
-                    machine_data["temp"],
-                    machine_data["pressure"]
-                )
-                loaded_count += 1
-            elif machine_type == "RobotMachine":
-                machine= RobotMachine(
-                    machine_data["machine_id"],
-                    machine_data["status"],
-                    machine_data["temp"],
-                    machine_data["pressure"],
-                    machine_data["robot_model"]
-                )
-                loaded_count += 1
-            elif machine_type == "ConveyorMachine":
-                machine= ConveyorMachine(
-                    machine_data["machine_id"],
-                    machine_data["status"],
-                    machine_data["temp"],
-                    machine_data["pressure"],
-                    machine_data["belt_speed"]
-                )
-                loaded_count += 1
-            elif machine_type == "PressMachine":
-                machine= PressMachine(
-                    machine_data["machine_id"],
-                    machine_data['status'],
-                    machine_data["temp"],
-                    machine_data["pressure"],
-                    machine_data["tonnage"],
-                    machine_data["hyd_pressure"]
-                )
-                loaded_count += 1
-            else:
-                print("Unknown machine type: ", machine_type)
+            try:
 
-            self.add_machine(machine)
+                machine_type = machine_data["machine_type"]
+
+                if machine_type == "Machine":
+                    machine= Machine(
+                        machine_data["machine_id"],
+                        machine_data["status"],
+                        machine_data["temp"],
+                        machine_data["pressure"]
+                    )
+                elif machine_type == "RobotMachine":
+                    machine= RobotMachine(
+                        machine_data["machine_id"],
+                        machine_data["status"],
+                        machine_data["temp"],
+                        machine_data["pressure"],
+                        machine_data["robot_model"]
+                    )
+                elif machine_type == "ConveyorMachine":
+                    machine= ConveyorMachine(
+                        machine_data["machine_id"],
+                        machine_data["status"],
+                        machine_data["temp"],
+                        machine_data["pressure"],
+                        machine_data["belt_speed"]
+                    )
+                elif machine_type == "PressMachine":
+                    machine= PressMachine(
+                        machine_data["machine_id"],
+                        machine_data['status'],
+                        machine_data["temp"],
+                        machine_data["pressure"],
+                        machine_data["tonnage"],
+                        machine_data["hyd_pressure"]
+                    )
+                else:
+                    print("Warning: unknown machine type -> ", machine_type)
+                    skypped_count +=1
+                    continue
+                
+                if machine_data["status"] not in ["RUNNING", "STOPPED"]:
+                    raise ValueError("Invalid Machine status")
+
+                self.add_machine(machine)
+                loaded_count +=1
+            except KeyError as error:
+                print(f"Warining: missing field -> {error}")
+                skypped_count +=1
+            except ValueError as error:
+                print(f"Warining invalid value -> {error}")
+                skypped_count +=1
+
+
         print("\nLoaded Machines: ", loaded_count)
+        print("\nSkypped Machines: ", skypped_count)

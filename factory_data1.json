@@ -1,0 +1,69 @@
+[
+    {
+        "machine_type": "Machine",
+        "machine_id": "M01",
+        "status": "RUNNING",
+        "temp": 35
+    },
+    {
+        "machine_type": "Machine",
+        "machine_id": "M02",
+        "temp": 25,
+        "pressure": 40
+    },
+    {
+        "machine_type": "Machine",
+        "machine_id": "M03",
+        "status": "RUNNING",
+        "temp": 45,
+        "pressure": 55
+    },
+    {
+        "machine_type": "ConveyorMachine",
+        "machine_id": "C01",
+        "status": "RUNNING",
+        "temp": 29,
+        "pressure": 60,
+        "belt_speed": 120
+    },
+    {
+        "machine_type": "ConveyorMachine",
+        "machine_id": "C02",
+        "status": "STOPPED",
+        "temp": 50,
+        "pressure": 70
+    },
+    {
+        "machine_type": "RobotMachine",
+        "machine_id": "R01",
+        "status": "RUNNING",
+        "temp": 38,
+        "pressure": 60
+    },
+    {
+        "machine_type": "RobotMachine",
+        "machine_id": "R02",
+        "status": "RUNNING",
+        "temp": 42,
+        "pressure": 65,
+        "robot_model": "KUKA KR6"
+    },
+    {
+        "machine_type": "PressMachine",
+        "machine_id": "P01",
+        "status": "WORKING",
+        "temp": 40,
+        "pressure": 70,
+        "tonnage": 500,
+        "hyd_pressure": 200
+    },
+    {
+        "machine_type": "PressMachine",
+        "machine_id": "P02",
+        "status": "RUNNING",
+        "temp": 38,
+        "pressure": 60,
+        "tonnage": 300,
+        "hyd_pressure": 150
+    }
+]

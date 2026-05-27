@@ -117,7 +117,7 @@ factory.save_factory("factory_data.json")
 
 factory = Factory("Loaded Factory")
 
-factory.load_factory("factory_data.json")
+factory.load_factory("factory_data1.json")
 
 factory.display_factory_status()
 
