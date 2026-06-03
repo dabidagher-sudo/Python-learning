@@ -1,11 +1,11 @@
 ***********************************
-[2026-05-27 16:43:34]
+[2026-06-02 21:23:01]
 Summary:
-Total Alarms: 5
+Total Alarms: 6
 Temperature Alarms: 2
-Pressure Alarms: 2
-Total Ok: 15
-Total Machines Down: 11
-Critical Alarms: 1
+Pressure Alarms: 0
+Total Ok: 14
+Total Machines Down: 13
+Critical Alarms: 4
 ***********************************
 

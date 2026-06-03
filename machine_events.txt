@@ -1181,3 +1181,43 @@
 [2026-05-27 16:43:34] Machine= M01, Status=RUNNING, Temp= 38, Pressure= 83-> Temperature Alarm
 [2026-05-27 16:43:34] Machine= M05, Status=STOPPED, Temp= 48, Pressure= 76-> Machine Stopped
 [2026-05-27 16:43:34] Machine= M03, Status=STOPPED, Temp= 25, Pressure= 58-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M01, Status=RUNNING, Temp= 43, Pressure= 82-> CRITICAL Temperature Alarm
+[2026-06-02 21:21:44] Machine= M06, Status=STOPPED, Temp= 31, Pressure= 88-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M04, Status=STOPPED, Temp= 29, Pressure= 79-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M02, Status=STOPPED, Temp= 46, Pressure= 40-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M05, Status=RUNNING, Temp= 21, Pressure= 79-> Ok
+[2026-06-02 21:21:44] Machine= M06, Status=STOPPED, Temp= 36, Pressure= 68-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M04, Status=STOPPED, Temp= 28, Pressure= 45-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M03, Status=STOPPED, Temp= 30, Pressure= 52-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M03, Status=STOPPED, Temp= 36, Pressure= 53-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M04, Status=STOPPED, Temp= 39, Pressure= 40-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M03, Status=RUNNING, Temp= 23, Pressure= 51-> Ok
+[2026-06-02 21:21:44] Machine= M05, Status=STOPPED, Temp= 49, Pressure= 81-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M04, Status=STOPPED, Temp= 38, Pressure= 55-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M03, Status=STOPPED, Temp= 45, Pressure= 52-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M06, Status=RUNNING, Temp= 49, Pressure= 54-> CRITICAL Temperature Alarm
+[2026-06-02 21:21:44] Machine= M01, Status=STOPPED, Temp= 38, Pressure= 88-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M01, Status=RUNNING, Temp= 45, Pressure= 46-> CRITICAL Temperature Alarm
+[2026-06-02 21:21:44] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 72-> CRITICAL Temperature Alarm
+[2026-06-02 21:21:44] Machine= M06, Status=STOPPED, Temp= 43, Pressure= 85-> Machine Stopped
+[2026-06-02 21:21:44] Machine= M04, Status=STOPPED, Temp= 25, Pressure= 77-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M03, Status=STOPPED, Temp= 34, Pressure= 64-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M06, Status=RUNNING, Temp= 28, Pressure= 66-> Ok
+[2026-06-02 21:23:01] Machine= M06, Status=STOPPED, Temp= 39, Pressure= 60-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M01, Status=STOPPED, Temp= 31, Pressure= 51-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M02, Status=RUNNING, Temp= 41, Pressure= 88-> CRITICAL Temperature Alarm
+[2026-06-02 21:23:01] Machine= M01, Status=STOPPED, Temp= 43, Pressure= 60-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M06, Status=STOPPED, Temp= 26, Pressure= 43-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M03, Status=RUNNING, Temp= 42, Pressure= 45-> CRITICAL Temperature Alarm
+[2026-06-02 21:23:01] Machine= M03, Status=STOPPED, Temp= 33, Pressure= 87-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M06, Status=STOPPED, Temp= 29, Pressure= 62-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M05, Status=RUNNING, Temp= 48, Pressure= 57-> CRITICAL Temperature Alarm
+[2026-06-02 21:23:01] Machine= M06, Status=STOPPED, Temp= 49, Pressure= 72-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M02, Status=STOPPED, Temp= 20, Pressure= 59-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M05, Status=STOPPED, Temp= 41, Pressure= 57-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M02, Status=RUNNING, Temp= 35, Pressure= 86-> Temperature Alarm
+[2026-06-02 21:23:01] Machine= M06, Status=RUNNING, Temp= 46, Pressure= 58-> CRITICAL Temperature Alarm
+[2026-06-02 21:23:01] Machine= M06, Status=STOPPED, Temp= 49, Pressure= 63-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M06, Status=RUNNING, Temp= 35, Pressure= 51-> Temperature Alarm
+[2026-06-02 21:23:01] Machine= M03, Status=STOPPED, Temp= 41, Pressure= 70-> Machine Stopped
+[2026-06-02 21:23:01] Machine= M01, Status=STOPPED, Temp= 46, Pressure= 73-> Machine Stopped

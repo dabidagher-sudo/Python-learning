@@ -119,7 +119,7 @@ class Factory:
                     continue
                 
                 if machine_data["status"] not in ["RUNNING", "STOPPED"]:
-                    raise ValueError("Invalid Machine status")
+                    raise ValueError(f"Invalid Machine status: {machine_data['status']}")
 
                 self.add_machine(machine)
                 loaded_count +=1
