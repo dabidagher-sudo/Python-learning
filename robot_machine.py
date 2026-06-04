@@ -43,3 +43,4 @@ class RobotMachine(Machine):
 
         return data
 
+

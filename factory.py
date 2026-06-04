@@ -22,6 +22,12 @@ class Factory:
             machine.display_info()
         print("==========================================")
 
+    def get_machines(self):
+        factory_data= []
+        for machine in self.machines:
+            factory_data.append(machine.to_db())
+        return factory_data
+
     def count_critical_alarms(self):
         critical_count= 0
         for machine in self.machines:

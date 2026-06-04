@@ -51,3 +51,23 @@ class Machine:
             "temp": self.temp,
             "pressure": self.pressure
         }
+    
+    def to_db(self):
+        if self.machine_id.startswith("M"):
+            type="Machine"
+        elif self.machine_id.startswith("R"):
+            type="RobotMachine"
+        elif self.machine_id.startswith("C"):
+            type="ConveyorMachine"
+        elif self.machine_id.startswith("P"):
+            type="PressMachine"
+
+
+        return (
+            f"{self.machine_id}",
+            f"{type}",
+            f"{self.status}",
+            f"{self.temp}",
+            f"{self.pressure}",
+            f"{self.analyze()}"
+        )
