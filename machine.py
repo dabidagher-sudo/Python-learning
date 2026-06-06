@@ -1,4 +1,5 @@
 #Machine info in class
+import time
 
 class Machine:
     def __init__(
@@ -7,13 +8,15 @@ class Machine:
             status,
             temp,
             pressure,
-            machine_type="Machine"
+            machine_type="Machine",
+            timestamp=time.strftime("%Y-%m-%d %H:%M:%S")
     ):
         self.machine_id = machine_id
         self.status = status
         self.temp = temp
         self.pressure = pressure
         self.machine_type = machine_type
+        self.timestamp = timestamp
 
     def analyze(self):
         if self.status == "STOPPED":
@@ -36,6 +39,7 @@ class Machine:
             f"Temp={self.temp} C | "
             f"Pressure={self.pressure} psi | "
             f"{result}"
+            f"{self.timestamp}"
         )
     
     def update_values(self, status, temp, pressure):
@@ -49,25 +53,17 @@ class Machine:
             "machine_id": self.machine_id,
             "status": self.status,
             "temp": self.temp,
-            "pressure": self.pressure
+            "pressure": self.pressure,
+            "Timestamp": self.timestamp
         }
     
     def to_db(self):
-        if self.machine_id.startswith("M"):
-            type="Machine"
-        elif self.machine_id.startswith("R"):
-            type="RobotMachine"
-        elif self.machine_id.startswith("C"):
-            type="ConveyorMachine"
-        elif self.machine_id.startswith("P"):
-            type="PressMachine"
-
-
         return (
             f"{self.machine_id}",
-            f"{type}",
+            f"{self.__class__.__name__}",
             f"{self.status}",
             f"{self.temp}",
             f"{self.pressure}",
-            f"{self.analyze()}"
+            f"{self.analyze()}",
+            f"{self.timestamp}"
         )

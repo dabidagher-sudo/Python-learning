@@ -11,6 +11,7 @@ from robot_machine import RobotMachine
 from conveyor_machine import ConveyorMachine
 from press_machine import PressMachine
 from factory import Factory
+from csv_export import export_factory_data, export_alarms_only
 
 simulate("data.csv", 20)
 
@@ -101,6 +102,9 @@ factory.add_machine(press2)
 
 factory.display_factory_status()
 
+export_factory_data(factory, "factory_export.csv")
+export_alarms_only(factory, "factory_alarms_only.csv")
+
 robot2.update_values("RUNNING", 42, 65)
 conveyor2.update_values("STOPPED", 50, 70)
 press2.update_values("RUNNING", 38, 60)
@@ -122,3 +126,6 @@ factory.load_factory("factory_data1.json")
 factory.display_factory_status()
 
 print("Factory Status", factory.get_factory_status())
+
+
+

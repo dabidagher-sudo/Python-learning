@@ -28,6 +28,14 @@ class Factory:
             factory_data.append(machine.to_db())
         return factory_data
 
+    def get_alarms_only(self):
+        alarms= []
+        for machine in self.machines:
+            result= machine.analyze()
+            if result != "Ok":
+                alarms.append(machine.to_db())
+        return alarms  
+
     def count_critical_alarms(self):
         critical_count= 0
         for machine in self.machines:

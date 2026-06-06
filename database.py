@@ -17,7 +17,8 @@ cursor.execute("""CREATE TABLE IF NOT EXISTS machines
                 status TEXT,
                 temp INTEGER,
                 pressure INTEGER,
-                result TEXT
+                result TEXT,
+                timestamp TEXT
                 )""")
 
 #connection.commit()
@@ -59,10 +60,11 @@ for machine in machines:
             status,
             temp,
             pressure,
-            result
+            result,
+            timestamp
         )
 
-        values(?,?,?,?,?,?)
+        values(?,?,?,?,?,?,?)
         """,
         machine
     )

@@ -4,21 +4,24 @@
         "machine_id": "M01",
         "status": "RUNNING",
         "temp": 35,
-        "pressure": 60
+        "pressure": 60,
+        "Timestamp": "2026-06-05 21:58:45"
     },
     {
         "machine_type": "Machine",
         "machine_id": "M02",
         "status": "STOPPED",
         "temp": 25,
-        "pressure": 40
+        "pressure": 40,
+        "Timestamp": "2026-06-05 21:58:45"
     },
     {
         "machine_type": "Machine",
         "machine_id": "M03",
         "status": "RUNNING",
         "temp": 45,
-        "pressure": 55
+        "pressure": 55,
+        "Timestamp": "2026-06-05 21:58:45"
     },
     {
         "machine_type": "ConveyorMachine",
@@ -26,6 +29,7 @@
         "status": "RUNNING",
         "temp": 29,
         "pressure": 60,
+        "Timestamp": "2026-06-05 21:58:45",
         "belt_speed": 120
     },
     {
@@ -34,6 +38,7 @@
         "status": "STOPPED",
         "temp": 50,
         "pressure": 70,
+        "Timestamp": "2026-06-05 21:58:45",
         "belt_speed": 90
     },
     {
@@ -42,6 +47,7 @@
         "status": "RUNNING",
         "temp": 38,
         "pressure": 60,
+        "Timestamp": "2026-06-05 21:58:45",
         "robot_model": "Fanuc M20iA"
     },
     {
@@ -50,6 +56,7 @@
         "status": "RUNNING",
         "temp": 42,
         "pressure": 65,
+        "Timestamp": "2026-06-05 21:58:45",
         "robot_model": "KUKA KR6"
     },
     {
@@ -58,6 +65,7 @@
         "status": "RUNNING",
         "temp": 40,
         "pressure": 70,
+        "Timestamp": "2026-06-05 21:58:45",
         "tonnage": 500,
         "hyd_pressure": 200
     },
@@ -67,6 +75,7 @@
         "status": "RUNNING",
         "temp": 38,
         "pressure": 60,
+        "Timestamp": "2026-06-05 21:58:45",
         "tonnage": 300,
         "hyd_pressure": 150
     }

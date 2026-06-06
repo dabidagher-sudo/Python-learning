@@ -1,0 +1,9 @@
+machine_id,machine_type,status,temp,pressure,result,timestamp
+M01,Machine,RUNNING,35,60,Temperature Alarm,2026-06-05 21:58:45
+M02,Machine,STOPPED,25,40,Machine Stopped,2026-06-05 21:58:45
+M03,Machine,RUNNING,45,55,Critical Temperature Alarm,2026-06-05 21:58:45
+C02,ConveyorMachine,RUNNING,45,65,Critical Temperature Alarm,2026-06-05 21:58:45
+R01,RobotMachine,RUNNING,38,60,Temperature Alarm,2026-06-05 21:58:45
+R02,RobotMachine,STOPPED,25,40,Machine Stopped,2026-06-05 21:58:45
+P01,PressMachine,RUNNING,40,70,Temperature Alarm,2026-06-05 21:58:45
+P02,PressMachine,STOPPED,30,50,Machine Stopped,2026-06-05 21:58:45
