@@ -12,6 +12,7 @@ from conveyor_machine import ConveyorMachine
 from press_machine import PressMachine
 from factory import Factory
 from csv_export import export_factory_data, export_alarms_only
+from queries import *
 
 simulate("data.csv", 20)
 
@@ -127,5 +128,12 @@ factory.display_factory_status()
 
 print("Factory Status", factory.get_factory_status())
 
-
-
+show_all_records()
+show_alarms_only()
+show_stopped_machines()
+show_critical_alarms()
+show_running_machines()
+show_machines_type("RobotMachine")
+show_machines_type("Machine")
+count_machines_type()
+count_result()

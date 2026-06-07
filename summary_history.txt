@@ -979,3 +979,146 @@ Total Machines Down: 11
 Critical Alarms: 2
 ***********************************
 
+***********************************
+[2026-06-06 18:56:22]
+Summary:
+Total Alarms: 8
+Temperature Alarms: 5
+Pressure Alarms: 0
+Total Ok: 12
+Total Machines Down: 10
+Critical Alarms: 3
+***********************************
+
+***********************************
+[2026-06-06 18:58:48]
+Summary:
+Total Alarms: 8
+Temperature Alarms: 5
+Pressure Alarms: 1
+Total Ok: 12
+Total Machines Down: 9
+Critical Alarms: 2
+***********************************
+
+***********************************
+[2026-06-06 19:00:59]
+Summary:
+Total Alarms: 7
+Temperature Alarms: 4
+Pressure Alarms: 1
+Total Ok: 13
+Total Machines Down: 11
+Critical Alarms: 2
+***********************************
+
+***********************************
+[2026-06-06 19:02:21]
+Summary:
+Total Alarms: 11
+Temperature Alarms: 4
+Pressure Alarms: 0
+Total Ok: 9
+Total Machines Down: 7
+Critical Alarms: 7
+***********************************
+
+***********************************
+[2026-06-06 19:06:06]
+Summary:
+Total Alarms: 3
+Temperature Alarms: 0
+Pressure Alarms: 0
+Total Ok: 17
+Total Machines Down: 13
+Critical Alarms: 3
+***********************************
+
+***********************************
+[2026-06-06 19:16:43]
+Summary:
+Total Alarms: 11
+Temperature Alarms: 7
+Pressure Alarms: 0
+Total Ok: 9
+Total Machines Down: 8
+Critical Alarms: 4
+***********************************
+
+***********************************
+[2026-06-06 19:18:07]
+Summary:
+Total Alarms: 5
+Temperature Alarms: 2
+Pressure Alarms: 1
+Total Ok: 15
+Total Machines Down: 10
+Critical Alarms: 2
+***********************************
+
+***********************************
+[2026-06-06 19:20:19]
+Summary:
+Total Alarms: 5
+Temperature Alarms: 4
+Pressure Alarms: 0
+Total Ok: 15
+Total Machines Down: 14
+Critical Alarms: 1
+***********************************
+
+***********************************
+[2026-06-06 19:27:18]
+Summary:
+Total Alarms: 6
+Temperature Alarms: 3
+Pressure Alarms: 3
+Total Ok: 14
+Total Machines Down: 12
+Critical Alarms: 0
+***********************************
+
+***********************************
+[2026-06-06 19:30:14]
+Summary:
+Total Alarms: 7
+Temperature Alarms: 1
+Pressure Alarms: 1
+Total Ok: 13
+Total Machines Down: 9
+Critical Alarms: 5
+***********************************
+
+***********************************
+[2026-06-06 19:30:32]
+Summary:
+Total Alarms: 9
+Temperature Alarms: 5
+Pressure Alarms: 2
+Total Ok: 11
+Total Machines Down: 5
+Critical Alarms: 2
+***********************************
+
+***********************************
+[2026-06-06 19:45:27]
+Summary:
+Total Alarms: 10
+Temperature Alarms: 2
+Pressure Alarms: 1
+Total Ok: 10
+Total Machines Down: 6
+Critical Alarms: 7
+***********************************
+
+***********************************
+[2026-06-06 19:47:08]
+Summary:
+Total Alarms: 10
+Temperature Alarms: 7
+Pressure Alarms: 1
+Total Ok: 10
+Total Machines Down: 9
+Critical Alarms: 2
+***********************************
+
