@@ -1,0 +1,8 @@
+{
+    "plant_name": "Training Plant",
+    "database_file": "data/factory.db",
+    "report_folder": "reports",
+    "log_folder": "logs",
+    "export_internal_minutes": 60,
+    "mode": "PLC"
+}
