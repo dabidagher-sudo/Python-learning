@@ -5,7 +5,7 @@
         "status": "RUNNING",
         "temp": 35,
         "pressure": 60,
-        "Timestamp": "2026-06-06 19:47:08"
+        "Timestamp": "2026-06-09 22:36:49"
     },
     {
         "machine_type": "Machine",
@@ -13,7 +13,7 @@
         "status": "STOPPED",
         "temp": 25,
         "pressure": 40,
-        "Timestamp": "2026-06-06 19:47:08"
+        "Timestamp": "2026-06-09 22:36:49"
     },
     {
         "machine_type": "Machine",
@@ -21,7 +21,7 @@
         "status": "RUNNING",
         "temp": 45,
         "pressure": 55,
-        "Timestamp": "2026-06-06 19:47:08"
+        "Timestamp": "2026-06-09 22:36:49"
     },
     {
         "machine_type": "ConveyorMachine",
@@ -29,7 +29,7 @@
         "status": "RUNNING",
         "temp": 29,
         "pressure": 60,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "belt_speed": 120
     },
     {
@@ -38,7 +38,7 @@
         "status": "STOPPED",
         "temp": 50,
         "pressure": 70,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "belt_speed": 90
     },
     {
@@ -47,7 +47,7 @@
         "status": "RUNNING",
         "temp": 38,
         "pressure": 60,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "robot_model": "Fanuc M20iA"
     },
     {
@@ -56,7 +56,7 @@
         "status": "RUNNING",
         "temp": 42,
         "pressure": 65,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "robot_model": "KUKA KR6"
     },
     {
@@ -65,7 +65,7 @@
         "status": "RUNNING",
         "temp": 40,
         "pressure": 70,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "tonnage": 500,
         "hyd_pressure": 200
     },
@@ -75,7 +75,7 @@
         "status": "RUNNING",
         "temp": 38,
         "pressure": 60,
-        "Timestamp": "2026-06-06 19:47:08",
+        "Timestamp": "2026-06-09 22:36:49",
         "tonnage": 300,
         "hyd_pressure": 150
     }
