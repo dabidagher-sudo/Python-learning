@@ -4,5 +4,5 @@
     "report_folder": "reports",
     "log_folder": "logs",
     "export_internal_minutes": 60,
-    "mode": "PLC"
+    "mode": "simulation"
 }
