@@ -2,11 +2,12 @@
 
 import json
 from src.service import *
+from src.report_manager import ReportManager
 
 config = start_aplication()
-create_folder("reports")
-create_folder("data")
-create_folder("logs")
+report_manager = ReportManager(config)
+report_manager.generate_csv_report()
+report_manager.generate_summary()
 
 shutdown_aplication()
 

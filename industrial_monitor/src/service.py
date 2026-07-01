@@ -10,15 +10,26 @@ def load_config(file_name):
 
     return config
 
+def loginfo_print(message):
+    print(message)
+    log_info(message)
+
+def create_folder(foldername):
+    if not os.path.exists(foldername):
+        os.makedirs(foldername)
+        log_info(f"Created folder: {foldername}")
+
 def start_aplication():
 
-    log_info("Industrial Monitor Starting")
+    create_folder("reports")
+    create_folder("data")
+    create_folder("logs")
+    loginfo_print("Industrial Monitor Starting")
     config=load_config("config.json")
 
-    log_info("Factory Loaded")
+    loginfo_print("Factory Loaded")
 
     if config["mode"] == "simulation" or config["mode"] == "PLC":
-        print("Industrial Monitor Started")
         print("Plant:",config["plant_name"])
         print("Mode:", config["mode"])
         print("Database:", config["database_file"])
@@ -26,14 +37,11 @@ def start_aplication():
     else:
         print("Invalid mode in config file")
 
-    log_info("Program Finished")
+    loginfo_print("Program Finished")
 
     return config
 
 def shutdown_aplication():
-    log_info("Industrial Monitor Closed")
+    loginfo_print("Industrial Monitor Closed")
 
-def create_folder(foldername):
-    if not os.path.exists(foldername):
-        os.makedirs(foldername)
-        log_info(f"Created folder: {foldername}")
+
