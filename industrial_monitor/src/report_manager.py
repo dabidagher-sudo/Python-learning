@@ -1,12 +1,14 @@
 #Report Manager
 from src.service import *
+from src.kpi_service import get_total_records, get_total_alarms, get_critical_alarms, get_alarm_summary
 from datetime import datetime
 from openpyxl import Workbook
 
 class ReportManager:
     def __init__(self,config):
         self.config=config
-        self.report_folder= self.config["report_folder"]
+        self.report_folder= config["report_folder"]
+        self.database_file = config["database_file"]
 
     def generate_csv_report(self):
         loginfo_print("Generating CSV report...")
@@ -18,6 +20,12 @@ class ReportManager:
         return f"{self.report_folder}/KPI_report_{datetime.now().strftime('%Y_%m_%d_%H_%M')}.{file_ext}"
     
     def generate_excel_report(self):
+
+        total_records = get_total_records(self.database_file)
+        total_alarms = get_total_alarms(self.database_file)
+        critical_alarms = get_critical_alarms(self.database_file)
+        alarm_summary = get_alarm_summary(self.database_file)
+        
         workbook = Workbook()
 
         sheet = workbook.active
@@ -47,7 +55,6 @@ class ReportManager:
 
         sheet2["A5"] = "Critical Temperature Alarm"
         sheet2["B5"] = 0
-
 
         filename = self.create_report_name("xlsx")
 

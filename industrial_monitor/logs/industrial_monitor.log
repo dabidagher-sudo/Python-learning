@@ -178,3 +178,10 @@
 2026-07-02 12:54:01,183 | INFO | Factory Loaded
 2026-07-02 12:54:01,184 | INFO | Program Finished
 2026-07-02 12:54:01,184 | INFO | Generating CSV report...
+2026-07-02 14:30:15,513 | INFO | Industrial Monitor Starting
+2026-07-02 14:30:15,515 | INFO | Factory Loaded
+2026-07-02 14:30:15,516 | INFO | Program Finished
+2026-07-02 14:30:15,516 | INFO | Generating CSV report...
+2026-07-02 14:30:15,542 | INFO | Excel report generated: reports/KPI_report_2026_07_02_14_30.xlsx
+2026-07-02 14:30:15,542 | INFO | Generating KPI summary...
+2026-07-02 14:30:15,543 | INFO | Industrial Monitor Closed
