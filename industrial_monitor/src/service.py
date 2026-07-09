@@ -14,6 +14,10 @@ def loginfo_print(message):
     print(message)
     log_info(message)
 
+def logerror_print(message):
+    print(message)
+    log_error(message)
+
 def create_folder(foldername):
     if not os.path.exists(foldername):
         os.makedirs(foldername)

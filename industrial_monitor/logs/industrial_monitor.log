@@ -185,3 +185,67 @@
 2026-07-02 14:30:15,542 | INFO | Excel report generated: reports/KPI_report_2026_07_02_14_30.xlsx
 2026-07-02 14:30:15,542 | INFO | Generating KPI summary...
 2026-07-02 14:30:15,543 | INFO | Industrial Monitor Closed
+2026-07-02 22:17:21,792 | INFO | Industrial Monitor Starting
+2026-07-02 22:17:21,802 | INFO | Factory Loaded
+2026-07-02 22:17:21,803 | INFO | Program Finished
+2026-07-02 22:17:21,803 | INFO | Generating CSV report...
+2026-07-02 22:30:42,371 | INFO | Industrial Monitor Starting
+2026-07-02 22:30:42,372 | INFO | Factory Loaded
+2026-07-02 22:30:42,372 | INFO | Program Finished
+2026-07-02 22:30:42,373 | INFO | Generating CSV report...
+2026-07-02 22:33:24,563 | INFO | Industrial Monitor Starting
+2026-07-02 22:33:24,564 | INFO | Factory Loaded
+2026-07-02 22:33:24,564 | INFO | Program Finished
+2026-07-02 22:33:24,564 | INFO | Generating CSV report...
+2026-07-02 22:33:24,565 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-02 22:33:24,565 | INFO | Generating KPI summary...
+2026-07-02 22:33:24,565 | INFO | Industrial Monitor Closed
+2026-07-02 22:38:50,680 | INFO | Industrial Monitor Starting
+2026-07-02 22:38:50,680 | INFO | Factory Loaded
+2026-07-02 22:38:50,681 | INFO | Program Finished
+2026-07-02 22:38:50,681 | INFO | Generating CSV report...
+2026-07-02 22:38:50,681 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-02 22:38:50,682 | INFO | Generating KPI summary...
+2026-07-02 22:38:50,682 | INFO | Industrial Monitor Closed
+2026-07-02 22:41:02,273 | INFO | Industrial Monitor Starting
+2026-07-02 22:41:02,274 | INFO | Factory Loaded
+2026-07-02 22:41:02,274 | INFO | Program Finished
+2026-07-02 22:41:02,275 | INFO | Generating CSV report...
+2026-07-02 22:41:02,275 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-02 22:44:21,778 | INFO | Industrial Monitor Starting
+2026-07-02 22:44:21,778 | INFO | Factory Loaded
+2026-07-02 22:44:21,779 | INFO | Program Finished
+2026-07-02 22:44:21,779 | INFO | Generating CSV report...
+2026-07-02 22:44:21,780 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-02 22:44:21,781 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-02 22:44:21,811 | INFO | Excel report generated: reports/KPI_report_2026_07_02_22_44.xlsx
+2026-07-02 22:44:21,812 | INFO | Generating KPI summary...
+2026-07-02 22:44:21,812 | INFO | Industrial Monitor Closed
+2026-07-08 22:13:57,255 | INFO | Industrial Monitor Starting
+2026-07-08 22:13:57,268 | INFO | Factory Loaded
+2026-07-08 22:13:57,269 | INFO | Program Finished
+2026-07-08 22:13:57,269 | INFO | Generating CSV report...
+2026-07-08 22:13:57,271 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-08 22:13:57,273 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-08 22:13:57,322 | INFO | Excel report generated: reports/KPI_report_2026_07_08_22_13.xlsx
+2026-07-08 22:13:57,322 | INFO | Generating KPI summary...
+2026-07-08 22:13:57,323 | INFO | Industrial Monitor Closed
+2026-07-08 22:14:53,931 | INFO | Industrial Monitor Starting
+2026-07-08 22:14:53,931 | INFO | Factory Loaded
+2026-07-08 22:14:53,932 | INFO | Program Finished
+2026-07-08 22:14:53,932 | INFO | Generating CSV report...
+2026-07-08 22:14:53,933 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-08 22:14:53,934 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-08 22:14:53,961 | INFO | Excel report generated: reports/KPI_report_2026_07_08_22_14.xlsx
+2026-07-08 22:14:53,961 | INFO | Generating KPI summary...
+2026-07-08 22:14:53,962 | INFO | Industrial Monitor Closed
+2026-07-08 22:31:58,899 | INFO | Industrial Monitor Starting
+2026-07-08 22:31:58,899 | INFO | Factory Loaded
+2026-07-08 22:31:58,900 | INFO | Program Finished
+2026-07-08 22:31:58,900 | INFO | Generating CSV report...
+2026-07-08 22:31:58,901 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-08 22:31:58,902 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-08 22:31:58,910 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-08 22:31:58,939 | INFO | Excel report generated: reports/KPI_report_2026_07_08_22_31.xlsx
+2026-07-08 22:31:58,939 | INFO | Generating KPI summary...
+2026-07-08 22:31:58,939 | INFO | Industrial Monitor Closed

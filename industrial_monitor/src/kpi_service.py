@@ -8,10 +8,29 @@ def get_total_records(database_file):
     conn = get_connection(database_file)
     cursor = conn.cursor()
 
-    cursor.execute("SELECT COUNT(*) FROM machine_data")
+    cursor.execute(
+        "SELECT COUNT(*) FROM machine_data"
+        )
     result = cursor.fetchone()[0]
 
     conn.close()
+    return result
+
+def get_running_machines(database_file):
+    conn = get_connection(database_file)
+    cursor = conn.cursor()
+
+    cursor.execute(
+        """
+        SELECT COUNT(*)
+        FROM machine_data
+        WHERE status = 'RUNNING'
+        """
+    )
+
+    result = cursor.fetchone()[0]
+    conn.close()
+
     return result
 
 def get_total_alarms(database_file):
@@ -66,5 +85,25 @@ def get_alarm_summary(database_file):
 
     conn.close()
     return result
+
+def get_factory_inventory(database_file):
+    conn = get_connection(database_file)
+    cursor = conn.cursor()
+
+    cursor.execute(
+        """
+        DISTINCT machine_id,
+        machine_type,
+        status
+        FROM machine_data
+        ORDER BY machine_id
+        """
+    )
+
+    result = cursor.fetchall()
+
+    conn.close()
+    return result
+
 
 

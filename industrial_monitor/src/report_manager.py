@@ -1,6 +1,6 @@
 #Report Manager
 from src.service import *
-from src.kpi_service import get_total_records, get_total_alarms, get_critical_alarms, get_alarm_summary
+from src.kpi_service import *
 from datetime import datetime
 from openpyxl import Workbook
 
@@ -21,11 +21,26 @@ class ReportManager:
     
     def generate_excel_report(self):
 
-        total_records = get_total_records(self.database_file)
-        total_alarms = get_total_alarms(self.database_file)
-        critical_alarms = get_critical_alarms(self.database_file)
-        alarm_summary = get_alarm_summary(self.database_file)
+        try:
+            total_records = get_total_records(self.database_file)
+            running_records = get_running_machines(self.database_file)
+            total_alarms = get_total_alarms(self.database_file)
+            critical_alarms = get_critical_alarms(self.database_file)
+            alarm_summary = get_alarm_summary(self.database_file)
+            availability = (running_records / total_records)*100 if total_records > 0 else 0
+
+            factory_inventory = get_factory_inventory(self.database_file)
+        except Exception as e:
+            logerror_print("Error occurred while fetching KPI data: " + str(e))
+            total_records = 0
+            total_alarms = 0
+            critical_alarms = 0
+            running_records = 0
+            alarm_summary = 0
+            availability = 0
+
         
+
         workbook = Workbook()
 
         sheet = workbook.active
@@ -36,27 +51,53 @@ class ReportManager:
         sheet["B3"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         sheet["A5"] = "Total Machines"
-        sheet["B5"] = 0
+        sheet["B5"] = total_records
 
         sheet["A6"] = "Total Alarms"
-        sheet["B6"] = 0
+        sheet["B6"] = total_alarms
 
         sheet["A7"] = "Critical Alarms"
-        sheet["B7"] = 0
+        sheet["B7"] = critical_alarms
+
+        sheet["A8"] = "Availability (%)"
+        sheet["B8"] = f"{availability:.2f}%"
 
         workbook.create_sheet(title="Alarm Summary")
         sheet2 = workbook["Alarm Summary"]
 
         sheet2["A3"] = "Alarm Type"
         sheet2["B3"] = "Count"
+    
+        try:
+            row = 4
 
-        sheet2["A4"] = "Machine Stopped"
-        sheet2["B4"] = 0
-
-        sheet2["A5"] = "Critical Temperature Alarm"
-        sheet2["B5"] = 0
+            for alarm_type, count in alarm_summary:
+                sheet2[f"A{row}"] = alarm_type
+                sheet2[f"B{row}"] = count
+                row += 1
+        except Exception as error:
+            logerror_print("Error occurred while generating alarm: " + str(error))
 
         filename = self.create_report_name("xlsx")
+
+        workbook.create_sheet(title="Factory Inventory")
+        sheet3 = workbook["Factory Inventory"]
+
+        sheet3["A3"]= "Machine ID"
+        sheet3["B3"]= "Machine Type"
+        sheet3["C3"]= "Status"
+
+        try:
+            row1 = 4
+
+            for machine_id, machine_type, status in factory_inventory:
+                sheet3[f"A{row1}"] = machine_id
+                sheet3[f"B{row1}"] = machine_type
+                sheet3[f"C{row1}"] = status
+                row1 +=1
+        except Exception as error:
+            logerror_print("Error occurred while generating factory inventory: " + str(error))
+
 
         workbook.save(filename)
         loginfo_print("Excel report generated: "+ filename)
