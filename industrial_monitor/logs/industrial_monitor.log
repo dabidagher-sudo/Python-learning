@@ -249,3 +249,64 @@
 2026-07-08 22:31:58,939 | INFO | Excel report generated: reports/KPI_report_2026_07_08_22_31.xlsx
 2026-07-08 22:31:58,939 | INFO | Generating KPI summary...
 2026-07-08 22:31:58,939 | INFO | Industrial Monitor Closed
+2026-07-11 09:49:25,719 | INFO | Industrial Monitor Starting
+2026-07-11 09:49:25,721 | INFO | Factory Loaded
+2026-07-11 09:49:25,721 | INFO | Program Finished
+2026-07-11 09:49:25,722 | INFO | Generating CSV report...
+2026-07-11 09:49:25,739 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 09:49:25,742 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 09:49:25,743 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 09:49:25,776 | INFO | Excel report generated: reports/KPI_report_2026_07_11_09_49.xlsx
+2026-07-11 09:49:25,777 | INFO | Generating KPI summary...
+2026-07-11 09:59:54,159 | INFO | Industrial Monitor Starting
+2026-07-11 09:59:54,161 | INFO | Factory Loaded
+2026-07-11 09:59:54,162 | INFO | Program Finished
+2026-07-11 09:59:54,162 | INFO | Generating CSV report...
+2026-07-11 09:59:54,164 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 09:59:54,166 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 09:59:54,166 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 09:59:54,202 | INFO | Excel report generated: reports/KPI_report_2026_07_11_09_59.xlsx
+2026-07-11 09:59:54,202 | INFO | Generating KPI summary...
+2026-07-11 10:02:32,010 | INFO | Industrial Monitor Starting
+2026-07-11 10:02:32,012 | INFO | Factory Loaded
+2026-07-11 10:02:32,012 | INFO | Program Finished
+2026-07-11 10:02:32,012 | INFO | Generating CSV report...
+2026-07-11 10:02:32,014 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 10:02:32,015 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 10:02:32,016 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 10:02:32,062 | INFO | Excel report generated: reports/KPI_report_2026_07_11_10_02.xlsx
+2026-07-11 10:02:32,063 | INFO | Generating KPI summary...
+2026-07-11 10:02:32,063 | INFO | Industrial Monitor Closed
+2026-07-11 10:15:24,157 | INFO | Industrial Monitor Starting
+2026-07-11 10:15:24,159 | INFO | Factory Loaded
+2026-07-11 10:15:24,160 | INFO | Program Finished
+2026-07-11 10:15:47,391 | INFO | Industrial Monitor Starting
+2026-07-11 10:15:47,392 | INFO | Factory Loaded
+2026-07-11 10:15:47,393 | INFO | Program Finished
+2026-07-11 10:15:47,393 | INFO | Generating CSV report...
+2026-07-11 10:15:47,395 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 10:15:47,396 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 10:15:47,414 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 10:15:47,464 | INFO | Excel report generated: reports/KPI_report_2026_07_11_10_15.xlsx
+2026-07-11 10:15:47,464 | INFO | Generating KPI summary...
+2026-07-11 10:15:47,469 | INFO | Industrial Monitor Closed
+2026-07-11 10:19:16,253 | INFO | Industrial Monitor Starting
+2026-07-11 10:19:16,255 | INFO | Factory Loaded
+2026-07-11 10:19:16,255 | INFO | Program Finished
+2026-07-11 10:19:16,255 | INFO | Generating CSV report...
+2026-07-11 10:19:16,257 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 10:19:16,258 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 10:19:16,259 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 10:19:16,288 | INFO | Excel report generated: reports/KPI_report_2026_07_11_10_19.xlsx
+2026-07-11 10:19:16,289 | INFO | Generating KPI summary...
+2026-07-11 10:19:16,289 | INFO | Industrial Monitor Closed
+2026-07-11 10:26:40,591 | INFO | Industrial Monitor Starting
+2026-07-11 10:26:40,606 | INFO | Factory Loaded
+2026-07-11 10:26:40,614 | INFO | Program Finished
+2026-07-11 10:26:40,614 | INFO | Generating CSV report...
+2026-07-11 10:26:40,615 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-11 10:26:40,617 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-11 10:26:40,619 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-11 10:26:40,667 | INFO | Excel report generated: reports/KPI_report_2026_07_11_10_26.xlsx
+2026-07-11 10:26:40,668 | INFO | Generating KPI summary...
+2026-07-11 10:26:40,669 | INFO | Industrial Monitor Closed

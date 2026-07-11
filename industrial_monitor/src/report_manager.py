@@ -4,9 +4,11 @@ from src.kpi_service import *
 from datetime import datetime
 from openpyxl import Workbook
 
+
 class ReportManager:
-    def __init__(self,config):
+    def __init__(self,config,data_source):
         self.config=config
+        self.data_source = data_source
         self.report_folder= config["report_folder"]
         self.database_file = config["database_file"]
 
@@ -22,14 +24,14 @@ class ReportManager:
     def generate_excel_report(self):
 
         try:
-            total_records = get_total_records(self.database_file)
-            running_records = get_running_machines(self.database_file)
-            total_alarms = get_total_alarms(self.database_file)
-            critical_alarms = get_critical_alarms(self.database_file)
-            alarm_summary = get_alarm_summary(self.database_file)
+            total_records = self.data_source.get_total_records() #get_total_records(self.database_file)
+            running_records = self.data_source.get_running_machines() #get_running_machines(self.database_file)
+            total_alarms = self.data_source.get_total_alarms() #get_total_alarms(self.database_file)
+            critical_alarms = self.data_source.get_critical_alarms() #get_critical_alarms(self.database_file)
+            alarm_summary = self.data_source.get_alarm_summary() #get_alarm_summary(self.database_file)
             availability = (running_records / total_records)*100 if total_records > 0 else 0
 
-            factory_inventory = get_factory_inventory(self.database_file)
+            factory_inventory = self.data_source.get_factory_inventory() #get_factory_inventory(self.database_file)
         except Exception as e:
             logerror_print("Error occurred while fetching KPI data: " + str(e))
             total_records = 0
