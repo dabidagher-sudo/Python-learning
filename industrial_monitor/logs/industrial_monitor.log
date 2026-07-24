@@ -310,3 +310,48 @@
 2026-07-11 10:26:40,667 | INFO | Excel report generated: reports/KPI_report_2026_07_11_10_26.xlsx
 2026-07-11 10:26:40,668 | INFO | Generating KPI summary...
 2026-07-11 10:26:40,669 | INFO | Industrial Monitor Closed
+2026-07-23 19:42:37,757 | INFO | Industrial Monitor Starting
+2026-07-23 19:42:37,765 | INFO | Factory Loaded
+2026-07-23 19:42:37,766 | INFO | Program Finished
+2026-07-23 19:42:37,766 | INFO | Generating CSV report...
+2026-07-23 19:42:37,776 | ERROR | Error occurred while fetching KPI data: no such table: machine_data
+2026-07-23 19:42:37,778 | ERROR | Error occurred while generating alarm: 'int' object is not iterable
+2026-07-23 19:42:37,778 | ERROR | Error occurred while generating factory inventory: cannot access local variable 'factory_inventory' where it is not associated with a value
+2026-07-23 19:42:37,826 | INFO | Excel report generated: reports/KPI_report_2026_07_23_19_42.xlsx
+2026-07-23 19:42:37,826 | INFO | Generating KPI summary...
+2026-07-23 19:42:37,826 | INFO | Industrial Monitor Closed
+2026-07-23 20:30:56,605 | INFO | Industrial Monitor Starting
+2026-07-23 20:30:56,606 | INFO | Factory Loaded
+2026-07-23 20:30:56,606 | INFO | Program Finished
+2026-07-23 20:30:56,606 | INFO | Generating CSV report...
+2026-07-23 20:30:56,658 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_30.xlsx
+2026-07-23 20:30:56,658 | INFO | Generating KPI summary...
+2026-07-23 20:30:56,659 | INFO | Industrial Monitor Closed
+2026-07-23 20:33:42,684 | INFO | Industrial Monitor Starting
+2026-07-23 20:33:42,685 | INFO | Factory Loaded
+2026-07-23 20:33:42,686 | INFO | Program Finished
+2026-07-23 20:33:42,686 | INFO | Generating CSV report...
+2026-07-23 20:33:42,754 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_33.xlsx
+2026-07-23 20:33:42,754 | INFO | Generating KPI summary...
+2026-07-23 20:33:42,755 | INFO | Industrial Monitor Closed
+2026-07-23 20:38:20,332 | INFO | Industrial Monitor Starting
+2026-07-23 20:38:20,332 | INFO | Factory Loaded
+2026-07-23 20:38:20,333 | INFO | Program Finished
+2026-07-23 20:38:20,333 | INFO | Generating CSV report...
+2026-07-23 20:38:20,384 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_38.xlsx
+2026-07-23 20:38:20,384 | INFO | Generating KPI summary...
+2026-07-23 20:38:20,385 | INFO | Industrial Monitor Closed
+2026-07-23 20:39:53,125 | INFO | Industrial Monitor Starting
+2026-07-23 20:39:53,125 | INFO | Factory Loaded
+2026-07-23 20:39:53,126 | INFO | Program Finished
+2026-07-23 20:39:53,126 | INFO | Generating CSV report...
+2026-07-23 20:39:53,157 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_39.xlsx
+2026-07-23 20:39:53,157 | INFO | Generating KPI summary...
+2026-07-23 20:39:53,158 | INFO | Industrial Monitor Closed
+2026-07-23 20:55:43,609 | INFO | Industrial Monitor Starting
+2026-07-23 20:55:43,609 | INFO | Factory Loaded
+2026-07-23 20:55:43,610 | INFO | Program Finished
+2026-07-23 20:55:43,610 | INFO | Generating CSV report...
+2026-07-23 20:55:43,667 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_55.xlsx
+2026-07-23 20:55:43,667 | INFO | Generating KPI summary...
+2026-07-23 20:55:43,668 | INFO | Industrial Monitor Closed
