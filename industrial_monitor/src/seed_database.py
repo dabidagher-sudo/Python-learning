@@ -1,5 +1,5 @@
 #Database
-
+from src.service import *
 import sqlite3
 
 connection=sqlite3.connect('data/factory.db')
@@ -49,13 +49,13 @@ for machine in test_records:
 
 connection.commit()
 
-cursor.execute(
-    "SELECT COUNT(*) FROM machine_data"
-)
-
-result=cursor.fetchone()[0]
-
-print(f"Test database seeded successfully with {result} records.")
-
+try:
+    cursor.execute(
+        "SELECT COUNT(*) FROM machine_data"
+    )
+    result=cursor.fetchone()[0]
+    loginfo_print(f"Test database seeded successfully with {result} records.")
+except Exception as e:
+    logerror_print(f"Error occurred while counting records: {e}")
 connection.close()
 

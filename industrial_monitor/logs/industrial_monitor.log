@@ -355,3 +355,5 @@
 2026-07-23 20:55:43,667 | INFO | Excel report generated: reports/KPI_report_2026_07_23_20_55.xlsx
 2026-07-23 20:55:43,667 | INFO | Generating KPI summary...
 2026-07-23 20:55:43,668 | INFO | Industrial Monitor Closed
+2026-07-23 21:08:54,069 | INFO | Test database seeded successfully with 0 records.
+2026-07-23 21:10:09,114 | INFO | Test database seeded successfully with 8 records.
